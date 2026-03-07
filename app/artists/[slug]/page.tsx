@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CommunityCard } from "@/components/community-card";
 import { EventCard } from "@/components/event-card";
+import { FollowArtistForm } from "@/components/follow-artist-form";
 import { GuideCard } from "@/components/guide-card";
 import { Header } from "@/components/header";
 import { getArtistBySlug, getArtists } from "@/lib/events";
@@ -47,6 +48,9 @@ export default async function ArtistDetailPage({ params }: Props) {
           <p className="eyebrow">Artist Hub</p>
           <h1>{artist.name}</h1>
           <p className="hero-text">{artist.intro}</p>
+          <div className="hero-actions">
+            <FollowArtistForm artistSlug={artist.slug} />
+          </div>
         </div>
         <div className="artist-hero-panel">
           <div className="detail-row">

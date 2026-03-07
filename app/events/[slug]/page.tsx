@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FavoriteToggle } from "@/components/favorite-toggle";
 import { Header } from "@/components/header";
+import { SaveEventForm } from "@/components/save-event-form";
 import { ShareButton } from "@/components/share-button";
 import {
   formatEventDateLabel,
@@ -38,6 +39,7 @@ export default async function EventDetailPage({ params }: Props) {
           <h1>{event.title}</h1>
           <p className="hero-text">{event.description}</p>
           <div className="detail-actions">
+            <SaveEventForm eventSlug={event.slug} />
             <FavoriteToggle slug={event.slug} />
             <ShareButton title={event.title} />
             {event.ticketLinks.map((link: EventItem["ticketLinks"][number]) => (

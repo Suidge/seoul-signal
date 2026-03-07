@@ -36,7 +36,8 @@ a {
 
 button,
 input,
-select {
+select,
+textarea {
   font: inherit;
 }
 
@@ -58,6 +59,14 @@ select {
   font-size: 1.15rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
+}
+
+.nav-button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
 }
 
 .nav {
@@ -441,7 +450,8 @@ select {
 }
 
 .field input,
-.field select {
+.field select,
+.field textarea {
   width: 100%;
   min-height: 44px;
   border: 1px solid var(--line);
@@ -449,6 +459,12 @@ select {
   padding: 0 14px;
   background: rgba(255, 255, 255, 0.72);
   color: var(--ink);
+}
+
+.field textarea {
+  min-height: 140px;
+  padding: 14px;
+  resize: vertical;
 }
 
 .filter-actions {
@@ -497,6 +513,28 @@ select {
   padding: 22px;
 }
 
+.auth-card {
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  background: var(--paper);
+  padding: 28px;
+  box-shadow: var(--shadow);
+}
+
+.narrow-shell {
+  max-width: 760px;
+}
+
+.auth-form {
+  display: grid;
+  gap: 14px;
+  margin: 18px 0;
+}
+
+.form-error {
+  color: #a44a33;
+}
+
 .content-card h3 {
   margin: 10px 0;
   font-size: 1.5rem;
@@ -518,6 +556,18 @@ select {
 
 .single-column {
   grid-template-columns: 1fr;
+}
+
+.comment-list {
+  display: grid;
+  gap: 14px;
+}
+
+.comment-card {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.58);
+  padding: 16px;
 }
 
 .artist-card,
