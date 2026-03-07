@@ -39,10 +39,12 @@ function toMockDetail(event: EventItem): EventDetail {
 
   return {
     ...event,
-    title: `${event.artist} Live in ${event.city}`,
+    title: event.title ?? `${event.artist} Live in ${event.city}`,
     description:
+      event.description ??
       "当前为演示数据。未来这里会展示完整活动介绍、购票说明、入场时间、观演须知和来源快照。",
-    purchaseHint: "正式接入数据库后，这里会优先显示官方购票规则和中文说明。",
+    purchaseHint:
+      event.purchaseHint ?? "正式接入数据库后，这里会优先显示官方购票规则和中文说明。",
     artistNameKo: artist?.nameKo,
     tourName: `${event.artist} World Tour`
   };
@@ -135,7 +137,12 @@ export async function getAllEvents(): Promise<EventItem[]> {
       startDate: item.startAt.toISOString(),
       status: mapStatus(item.status),
       source: item.sourceLabel,
+      sourceUrl: item.sourceUrl ?? undefined,
       tags: [getStatusLabel(mapStatus(item.status)), item.venue.country],
+      title: item.title,
+      description: item.description ?? undefined,
+      purchaseHint: item.purchaseHint ?? undefined,
+      doorsTime: item.doorsTime ?? undefined,
       ticketLinks: item.ticketLinks.map((link) => ({
         label: link.label,
         href: link.href,

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { FavoriteToggle } from "@/components/favorite-toggle";
 import {
   type EventItem,
   findArtistByName,
@@ -22,6 +23,7 @@ export function EventCard({ event }: Props) {
         <Link href={artist ? `/artists/${artist.slug}` : `/calendar?q=${encodeURIComponent(event.artist)}`}>
           {event.artist}
         </Link>
+        <FavoriteToggle compact slug={event.slug} />
       </div>
       <h3>
         <Link href={`/events/${event.slug}`}>

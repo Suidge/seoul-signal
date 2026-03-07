@@ -154,7 +154,9 @@ select {
 .primary-button,
 .secondary-button,
 .ticket-link,
-.text-link {
+.text-link,
+.favorite-button,
+.favorite-chip {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -175,7 +177,9 @@ select {
 
 .secondary-button,
 .ticket-link,
-.text-link {
+.text-link,
+.favorite-button,
+.favorite-chip {
   border: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.42);
 }
@@ -183,8 +187,22 @@ select {
 .primary-button:hover,
 .secondary-button:hover,
 .ticket-link:hover,
-.text-link:hover {
+.text-link:hover,
+.favorite-button:hover,
+.favorite-chip:hover {
   transform: translateY(-1px);
+}
+
+.favorite-button,
+.favorite-chip {
+  cursor: pointer;
+}
+
+.favorite-chip {
+  margin-left: auto;
+  min-height: 32px;
+  padding: 0 12px;
+  font-size: 0.8rem;
 }
 
 .hero-panel,
@@ -348,9 +366,13 @@ select {
   margin: 56px 0 24px;
 }
 
+.month-section {
+  margin-top: 30px;
+}
+
 .detail-content {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
   margin: 24px 0 18px;
 }
@@ -363,6 +385,11 @@ select {
 .detail-block h2 {
   margin: 10px 0 12px;
   font-size: 1.6rem;
+}
+
+.detail-note {
+  margin-top: 12px;
+  color: var(--muted);
 }
 
 .detail-row {
@@ -383,6 +410,13 @@ select {
 
 .back-link {
   margin-top: 12px;
+}
+
+.checklist {
+  margin: 16px 0 0;
+  padding-left: 18px;
+  color: var(--muted);
+  line-height: 1.8;
 }
 
 .filter-panel {
@@ -416,6 +450,39 @@ select {
   display: flex;
   align-items: end;
   gap: 10px;
+}
+
+.insight-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin-bottom: 28px;
+}
+
+.insight-strip article,
+.sort-form {
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: rgba(255, 252, 247, 0.74);
+  padding: 18px;
+}
+
+.insight-strip strong {
+  display: block;
+  font-size: 1.4rem;
+  margin-bottom: 4px;
+}
+
+.insight-strip span {
+  color: var(--muted);
+}
+
+.empty-state {
+  border: 1px solid var(--line);
+  border-radius: 24px;
+  background: rgba(255, 252, 247, 0.74);
+  padding: 32px;
+  box-shadow: var(--shadow);
 }
 
 .artist-card,
@@ -480,7 +547,8 @@ select {
   .track-list,
   .detail-content,
   .artist-grid,
-  .artist-hero {
+  .artist-hero,
+  .insight-strip {
     grid-template-columns: 1fr;
   }
 
