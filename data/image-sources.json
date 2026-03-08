@@ -118,5 +118,135 @@
     "license": "CC BY 3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:TXT_at_Soribada_Awards_on_August_23,_2019.png",
     "sourceLabel": "TXT at Soribada Awards"
+  },
+  {
+    "artistSlug": "ateez",
+    "fileTitle": "File:Ateez at The World EP. 2 Outlaw Showcase.jpg",
+    "targetPath": "/media/artists/ateez.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "TV10",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg",
+    "sourceLabel": "Ateez at The World EP. 2 Outlaw Showcase"
+  },
+  {
+    "artistSlug": "babymonster",
+    "fileTitle": "File:BabyMonster at SBS Radio on 20240428.jpg",
+    "targetPath": "/media/artists/babymonster.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "SBS Radio",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BabyMonster_at_SBS_Radio_on_20240428.jpg",
+    "sourceLabel": "BabyMonster at SBS Radio"
+  },
+  {
+    "artistSlug": "boynextdoor",
+    "fileTitle": "File:230602 BOYNEXTDOOR (보이넥스트도어).jpg",
+    "targetPath": "/media/artists/boynextdoor.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "TV10",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:230602_BOYNEXTDOOR_(%EB%B3%B4%EC%9D%B4%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%8F%84%EC%96%B4).jpg",
+    "sourceLabel": "BOYNEXTDOOR 230602"
+  },
+  {
+    "artistSlug": "day6",
+    "fileTitle": "File:DAY6 in taiwan.jpg",
+    "targetPath": "/media/artists/day6.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "Shuohyun",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DAY6_in_taiwan.jpg",
+    "sourceLabel": "DAY6 in Taiwan"
+  },
+  {
+    "artistSlug": "itzy",
+    "fileTitle": "File:Itzy going to a Music Bank recording on August 8, 2019.png",
+    "targetPath": "/media/artists/itzy.png",
+    "provider": "Wikimedia Commons",
+    "creator": "Dispatch",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itzy_going_to_a_Music_Bank_recording_on_August_8,_2019.png",
+    "sourceLabel": "Itzy at Music Bank recording"
+  },
+  {
+    "artistSlug": "iu",
+    "fileTitle": "File:IU singer 2.jpg",
+    "targetPath": "/media/artists/iu.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "Marie Claire Korea",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:IU_singer_2.jpg",
+    "sourceLabel": "IU singer 2"
+  },
+  {
+    "artistSlug": "nmixx",
+    "fileTitle": "File:NMIXX 220618.png",
+    "targetPath": "/media/artists/nmixx.png",
+    "provider": "Wikimedia Commons",
+    "creator": "TV10",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NMIXX_220618.png",
+    "sourceLabel": "NMIXX 220618"
+  },
+  {
+    "artistSlug": "riize",
+    "fileTitle": "File:Riize at the 2024 Melon Music Awards-2.png",
+    "targetPath": "/media/artists/riize.png",
+    "provider": "Wikimedia Commons",
+    "creator": "TenAsia",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riize_at_the_2024_Melon_Music_Awards-2.png",
+    "sourceLabel": "Riize at 2024 Melon Music Awards"
+  },
+  {
+    "artistSlug": "taemin",
+    "fileTitle": "File:240919 SHINEE Taemin.jpg",
+    "targetPath": "/media/artists/taemin.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "TV10",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:240919_SHINEE_Taemin.jpg",
+    "sourceLabel": "Taemin 240919"
+  },
+  {
+    "artistSlug": "taeyeon",
+    "fileTitle": "File:Kim Taeyeon, Kpop Expo in Asia 140921 (cropped).jpg",
+    "targetPath": "/media/artists/taeyeon.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "Sweet3Haven9",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Taeyeon,_Kpop_Expo_in_Asia_140921_(cropped).jpg",
+    "sourceLabel": "Kim Taeyeon at K-pop Expo in Asia"
+  },
+  {
+    "artistSlug": "wayv",
+    "fileTitle": "File:WayV during fanmeeting in December 2019 02.jpg",
+    "targetPath": "/media/artists/wayv.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "Bugaboo.TV",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:WayV_during_fanmeeting_in_December_2019_02.jpg",
+    "sourceLabel": "WayV during fanmeeting in December 2019"
+  },
+  {
+    "artistSlug": "xg",
+    "fileTitle": "File:2025-01-30 XG at Gimpo Airport 11.jpg",
+    "targetPath": "/media/artists/xg.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "TV10",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-01-30_XG_at_Gimpo_Airport_11.jpg",
+    "sourceLabel": "XG at Gimpo Airport"
+  },
+  {
+    "artistSlug": "zerobaseone",
+    "fileTitle": "File:230513 ZEROBASEONE (ZB1).jpg",
+    "targetPath": "/media/artists/zerobaseone.jpg",
+    "provider": "Wikimedia Commons",
+    "creator": "TV10",
+    "license": "CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:230513_ZEROBASEONE_(ZB1).jpg",
+    "sourceLabel": "ZEROBASEONE 230513"
   }
 ]

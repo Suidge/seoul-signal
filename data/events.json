@@ -560,14 +560,21 @@
       "核对票档福利",
       "预留散场缓冲"
     ],
-    "heroImage": "/media/events/itzy-manila-2026.svg",
+    "heroImage": "/media/artists/itzy.png",
     "ticketLinks": [
       {
         "label": "ITZY Official",
         "href": "https://itzy.jype.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "Dispatch",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itzy_going_to_a_Music_Bank_recording_on_August_8,_2019.png",
+      "sourceLabel": "Itzy at Music Bank recording"
+    }
   },
   {
     "id": "blackpink-paris-2026",
@@ -645,14 +652,21 @@
       "核对福利规则",
       "留出散场时间"
     ],
-    "heroImage": "/media/events/ateez-london-2026.svg",
+    "heroImage": "/media/artists/ateez.jpg",
     "ticketLinks": [
       {
         "label": "ATEEZ Official",
         "href": "https://ateez.kqent.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg",
+      "sourceLabel": "Ateez at The World EP. 2 Outlaw Showcase"
+    }
   },
   {
     "id": "xg-london-2026",
@@ -684,14 +698,21 @@
       "测试支付方式",
       "确认返程车次"
     ],
-    "heroImage": "/media/events/xg-london-2026.svg",
+    "heroImage": "/media/artists/xg.jpg",
     "ticketLinks": [
       {
         "label": "XG Official",
         "href": "https://xgalx.com/xg/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-01-30_XG_at_Gimpo_Airport_11.jpg",
+      "sourceLabel": "XG at Gimpo Airport"
+    }
   },
   {
     "id": "twice-tokyo-2026",
@@ -769,14 +790,21 @@
       "确认会员认证",
       "留意入场队列"
     ],
-    "heroImage": "/media/events/boynextdoor-seoul-2026.svg",
+    "heroImage": "/media/artists/boynextdoor.jpg",
     "ticketLinks": [
       {
         "label": "BOYNEXTDOOR Official",
         "href": "https://weverse.io/boynextdoor",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:230602_BOYNEXTDOOR_(%EB%B3%B4%EC%9D%B4%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%8F%84%EC%96%B4).jpg",
+      "sourceLabel": "BOYNEXTDOOR 230602"
+    }
   },
   {
     "id": "tws-yokohama-2026",
@@ -886,14 +914,21 @@
       "预留口岸时间",
       "看酒店接驳"
     ],
-    "heroImage": "/media/events/zerobaseone-macau-2026.svg",
+    "heroImage": "/media/artists/zerobaseone.jpg",
     "ticketLinks": [
       {
         "label": "ZEROBASEONE Official",
         "href": "https://zb1-official.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:230513_ZEROBASEONE_(ZB1).jpg",
+      "sourceLabel": "ZEROBASEONE 230513"
+    }
   },
   {
     "id": "riize-hong-kong-2026",
@@ -925,14 +960,21 @@
       "核对实名信息",
       "预留交通预算"
     ],
-    "heroImage": "/media/events/riize-hong-kong-2026.svg",
+    "heroImage": "/media/artists/riize.png",
     "ticketLinks": [
       {
         "label": "RIIZE Official",
         "href": "https://www.smtown.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TenAsia",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riize_at_the_2024_Melon_Music_Awards-2.png",
+      "sourceLabel": "Riize at 2024 Melon Music Awards"
+    }
   },
   {
     "id": "h1-key-seoul-2026",
@@ -1120,14 +1162,21 @@
       "确认平台账号",
       "预留出城时间"
     ],
-    "heroImage": "/media/events/babymonster-jakarta-2026.svg",
+    "heroImage": "/media/artists/babymonster.jpg",
     "ticketLinks": [
       {
         "label": "BABYMONSTER Official",
         "href": "https://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=70",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "SBS Radio",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BabyMonster_at_SBS_Radio_on_20240428.jpg",
+      "sourceLabel": "BabyMonster at SBS Radio"
+    }
   },
   {
     "id": "taemin-bangkok-2026",
@@ -1159,14 +1208,21 @@
       "确认站位",
       "预订返程"
     ],
-    "heroImage": "/media/events/taemin-bangkok-2026.svg",
+    "heroImage": "/media/artists/taemin.jpg",
     "ticketLinks": [
       {
         "label": "Taemin Official",
         "href": "https://www.smtown.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:240919_SHINEE_Taemin.jpg",
+      "sourceLabel": "Taemin 240919"
+    }
   },
   {
     "id": "stayc-seoul-2026",
@@ -1361,14 +1417,21 @@
       "比较票档价格",
       "确认捷运末班"
     ],
-    "heroImage": "/media/events/iu-taipei-2026.svg",
+    "heroImage": "/media/artists/iu.jpg",
     "ticketLinks": [
       {
         "label": "IU Official",
         "href": "https://www.iu-official.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "Marie Claire Korea",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IU_singer_2.jpg",
+      "sourceLabel": "IU singer 2"
+    }
   },
   {
     "id": "nexz-osaka-2026",
@@ -1524,14 +1587,21 @@
       "留意包袋规则",
       "提早到场"
     ],
-    "heroImage": "/media/events/nmixx-seoul-2026.svg",
+    "heroImage": "/media/artists/nmixx.png",
     "ticketLinks": [
       {
         "label": "NMIXX Official",
         "href": "https://nmixx.jype.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NMIXX_220618.png",
+      "sourceLabel": "NMIXX 220618"
+    }
   },
   {
     "id": "kep1er-yokohama-2026",
@@ -1641,14 +1711,21 @@
       "比较正中区块",
       "尽早订酒店"
     ],
-    "heroImage": "/media/events/taeyeon-seoul-2026.svg",
+    "heroImage": "/media/artists/taeyeon.jpg",
     "ticketLinks": [
       {
         "label": "Taeyeon Official",
         "href": "https://www.smtown.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "Sweet3Haven9",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Taeyeon,_Kpop_Expo_in_Asia_140921_(cropped).jpg",
+      "sourceLabel": "Kim Taeyeon at K-pop Expo in Asia"
+    }
   },
   {
     "id": "wayv-macau-2026",
@@ -1680,14 +1757,21 @@
       "预留口岸时间",
       "看接驳"
     ],
-    "heroImage": "/media/events/wayv-macau-2026.svg",
+    "heroImage": "/media/artists/wayv.jpg",
     "ticketLinks": [
       {
         "label": "WayV Official",
         "href": "https://www.smtown.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "Bugaboo.TV",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WayV_during_fanmeeting_in_December_2019_02.jpg",
+      "sourceLabel": "WayV during fanmeeting in December 2019"
+    }
   },
   {
     "id": "shinee-tokyo-2026",
@@ -1992,14 +2076,21 @@
       "准备国际支付",
       "留出返程缓冲"
     ],
-    "heroImage": "/media/events/ateez-mexico-city-2026.svg",
+    "heroImage": "/media/artists/ateez.jpg",
     "ticketLinks": [
       {
         "label": "ATEEZ Official",
         "href": "https://ateez.kqent.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg",
+      "sourceLabel": "Ateez at The World EP. 2 Outlaw Showcase"
+    }
   },
   {
     "id": "gidle-paris-2026",
@@ -2318,14 +2409,21 @@
       "看音场",
       "预留返程"
     ],
-    "heroImage": "/media/events/day6-jakarta-2026.svg",
+    "heroImage": "/media/artists/day6.jpg",
     "ticketLinks": [
       {
         "label": "DAY6 Official",
         "href": "https://day6.jype.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "Shuohyun",
+      "license": "CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DAY6_in_taiwan.jpg",
+      "sourceLabel": "DAY6 in Taiwan"
+    }
   },
   {
     "id": "kickflip-seoul-2026",
@@ -2644,14 +2742,21 @@
       "核对认证规则",
       "留意入场时间"
     ],
-    "heroImage": "/media/events/zerobaseone-seoul-2026.svg",
+    "heroImage": "/media/artists/zerobaseone.jpg",
     "ticketLinks": [
       {
         "label": "ZEROBASEONE Official",
         "href": "https://zb1-official.com/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:230513_ZEROBASEONE_(ZB1).jpg",
+      "sourceLabel": "ZEROBASEONE 230513"
+    }
   },
   {
     "id": "jung-kook-los-angeles-2026",
@@ -2800,14 +2905,21 @@
       "看清 GA 规则",
       "规划散场接驳"
     ],
-    "heroImage": "/media/events/xg-los-angeles-2026.svg",
+    "heroImage": "/media/artists/xg.jpg",
     "ticketLinks": [
       {
         "label": "XG Official",
         "href": "https://xgalx.com/xg/",
         "type": "official"
       }
-    ]
+    ],
+    "heroImageAttribution": {
+      "provider": "Wikimedia Commons",
+      "creator": "TV10",
+      "license": "CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-01-30_XG_at_Gimpo_Airport_11.jpg",
+      "sourceLabel": "XG at Gimpo Airport"
+    }
   },
   {
     "id": "aespa-los-angeles-2026",

@@ -332,14 +332,18 @@ img {
   position: relative;
   overflow: hidden;
   border-radius: 20px;
-  min-height: 156px;
+  aspect-ratio: 4 / 5;
   border: 1px solid rgba(255, 255, 255, 0.36);
+  background:
+    linear-gradient(180deg, rgba(22, 18, 16, 0.02), rgba(22, 18, 16, 0.18)),
+    rgba(214, 204, 193, 0.72);
 }
 
 .hero-collage-card img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center 18%;
 }
 
 .hero-collage-card span {
@@ -451,7 +455,8 @@ img {
 .artist-visual-frame,
 .event-visual-frame {
   margin: -22px -22px 16px;
-  min-height: 210px;
+  aspect-ratio: 4 / 5;
+  min-height: 0;
 }
 
 .artist-visual,
@@ -461,11 +466,14 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center 16%;
+  background: rgba(214, 204, 193, 0.72);
 }
 
 .artist-hero-visual,
 .detail-hero-image-wrap {
-  min-height: 100%;
+  aspect-ratio: 4 / 5;
+  min-height: 420px;
 }
 
 .artist-card-top {
