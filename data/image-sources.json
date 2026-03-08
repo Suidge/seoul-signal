@@ -1,6 +1,7 @@
 [
   {
     "artistSlug": "aespa",
+    "useForEvents": false,
     "fileTitle": "File:Aespa 06.jpg",
     "targetPath": "/media/artists/aespa.jpg",
     "provider": "Wikimedia Commons",
@@ -11,6 +12,7 @@
   },
   {
     "artistSlug": "blackpink",
+    "useForEvents": true,
     "fileTitle": "File:20190518 Blackpink Amsterdam concert 04.jpg",
     "targetPath": "/media/artists/blackpink.jpg",
     "provider": "Wikimedia Commons",
@@ -21,6 +23,7 @@
   },
   {
     "artistSlug": "bts",
+    "useForEvents": false,
     "fileTitle": "File:BTS during a photoshoot for Korea Dispatch in Las Vegas, May 2019 08.jpg",
     "targetPath": "/media/artists/bts.jpg",
     "provider": "Wikimedia Commons",
@@ -31,6 +34,7 @@
   },
   {
     "artistSlug": "enhypen",
+    "useForEvents": true,
     "fileTitle": "File:ENHYPEN at EVERGREEN ENERGY 2023.png",
     "targetPath": "/media/artists/enhypen.png",
     "provider": "Wikimedia Commons",
@@ -41,6 +45,7 @@
   },
   {
     "artistSlug": "ive",
+    "useForEvents": true,
     "fileTitle": "File:IVE (아이브) performing at the 2023 World Scout Jamboree K-POP Super Live Concert.jpg",
     "targetPath": "/media/artists/ive.jpg",
     "provider": "Wikimedia Commons",
@@ -51,6 +56,7 @@
   },
   {
     "artistSlug": "le-sserafim",
+    "useForEvents": false,
     "fileTitle": "File:221127 LE SSERAFIM (르세라핌) Airport Departure.jpg",
     "targetPath": "/media/artists/le-sserafim.jpg",
     "provider": "Wikimedia Commons",
@@ -61,6 +67,7 @@
   },
   {
     "artistSlug": "nct-dream",
+    "useForEvents": false,
     "fileTitle": "File:NCT Dream at DREAM()SCAPE Press Conference.png",
     "targetPath": "/media/artists/nct-dream.png",
     "provider": "Wikimedia Commons",
@@ -71,6 +78,7 @@
   },
   {
     "artistSlug": "newjeans",
+    "useForEvents": false,
     "fileTitle": "File:NewJeans 230905.jpg",
     "targetPath": "/media/artists/newjeans.jpg",
     "provider": "Wikimedia Commons",
@@ -81,6 +89,7 @@
   },
   {
     "artistSlug": "seventeen",
+    "useForEvents": true,
     "fileTitle": "File:Seventeen (세븐틴) at 2015 Summer K-POP Festival.jpg",
     "targetPath": "/media/artists/seventeen.jpg",
     "provider": "Wikimedia Commons",
@@ -91,6 +100,7 @@
   },
   {
     "artistSlug": "stray-kids",
+    "useForEvents": false,
     "fileTitle": "File:Stray Kids at Incheon Airport, May 3, 2024.png",
     "targetPath": "/media/artists/stray-kids.png",
     "provider": "Wikimedia Commons",
@@ -101,6 +111,7 @@
   },
   {
     "artistSlug": "twice",
+    "useForEvents": true,
     "fileTitle": "File:Twice - Dickies Arena, 2022 (cropped).jpg",
     "targetPath": "/media/artists/twice.jpg",
     "provider": "Wikimedia Commons",
@@ -111,6 +122,7 @@
   },
   {
     "artistSlug": "txt",
+    "useForEvents": true,
     "fileTitle": "File:TXT at Soribada Awards on August 23, 2019.png",
     "targetPath": "/media/artists/txt.png",
     "provider": "Wikimedia Commons",
@@ -121,6 +133,7 @@
   },
   {
     "artistSlug": "ateez",
+    "useForEvents": true,
     "fileTitle": "File:Ateez at The World EP. 2 Outlaw Showcase.jpg",
     "targetPath": "/media/artists/ateez.jpg",
     "provider": "Wikimedia Commons",
@@ -131,6 +144,7 @@
   },
   {
     "artistSlug": "babymonster",
+    "useForEvents": false,
     "fileTitle": "File:BabyMonster at SBS Radio on 20240428.jpg",
     "targetPath": "/media/artists/babymonster.jpg",
     "provider": "Wikimedia Commons",
@@ -141,6 +155,7 @@
   },
   {
     "artistSlug": "boynextdoor",
+    "useForEvents": false,
     "fileTitle": "File:230602 BOYNEXTDOOR (보이넥스트도어).jpg",
     "targetPath": "/media/artists/boynextdoor.jpg",
     "provider": "Wikimedia Commons",
@@ -151,6 +166,7 @@
   },
   {
     "artistSlug": "day6",
+    "useForEvents": true,
     "fileTitle": "File:DAY6 in taiwan.jpg",
     "targetPath": "/media/artists/day6.jpg",
     "provider": "Wikimedia Commons",
@@ -161,6 +177,7 @@
   },
   {
     "artistSlug": "itzy",
+    "useForEvents": false,
     "fileTitle": "File:Itzy going to a Music Bank recording on August 8, 2019.png",
     "targetPath": "/media/artists/itzy.png",
     "provider": "Wikimedia Commons",
@@ -171,6 +188,7 @@
   },
   {
     "artistSlug": "iu",
+    "useForEvents": false,
     "fileTitle": "File:IU singer 2.jpg",
     "targetPath": "/media/artists/iu.jpg",
     "provider": "Wikimedia Commons",
@@ -181,6 +199,7 @@
   },
   {
     "artistSlug": "nmixx",
+    "useForEvents": false,
     "fileTitle": "File:NMIXX 220618.png",
     "targetPath": "/media/artists/nmixx.png",
     "provider": "Wikimedia Commons",
@@ -191,6 +210,7 @@
   },
   {
     "artistSlug": "riize",
+    "useForEvents": false,
     "fileTitle": "File:Riize at the 2024 Melon Music Awards-2.png",
     "targetPath": "/media/artists/riize.png",
     "provider": "Wikimedia Commons",
@@ -201,6 +221,7 @@
   },
   {
     "artistSlug": "taemin",
+    "useForEvents": false,
     "fileTitle": "File:240919 SHINEE Taemin.jpg",
     "targetPath": "/media/artists/taemin.jpg",
     "provider": "Wikimedia Commons",
@@ -211,6 +232,7 @@
   },
   {
     "artistSlug": "taeyeon",
+    "useForEvents": false,
     "fileTitle": "File:Kim Taeyeon, Kpop Expo in Asia 140921 (cropped).jpg",
     "targetPath": "/media/artists/taeyeon.jpg",
     "provider": "Wikimedia Commons",
@@ -221,6 +243,7 @@
   },
   {
     "artistSlug": "wayv",
+    "useForEvents": true,
     "fileTitle": "File:WayV during fanmeeting in December 2019 02.jpg",
     "targetPath": "/media/artists/wayv.jpg",
     "provider": "Wikimedia Commons",
@@ -231,6 +254,7 @@
   },
   {
     "artistSlug": "xg",
+    "useForEvents": false,
     "fileTitle": "File:2025-01-30 XG at Gimpo Airport 11.jpg",
     "targetPath": "/media/artists/xg.jpg",
     "provider": "Wikimedia Commons",
@@ -241,6 +265,7 @@
   },
   {
     "artistSlug": "zerobaseone",
+    "useForEvents": false,
     "fileTitle": "File:230513 ZEROBASEONE (ZB1).jpg",
     "targetPath": "/media/artists/zerobaseone.jpg",
     "provider": "Wikimedia Commons",

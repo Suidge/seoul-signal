@@ -97,6 +97,10 @@ function buildAttribution(source, resolved) {
   };
 }
 
+function defaultEventVisual(slug) {
+  return `/media/events/${slug}.svg`;
+}
+
 async function main() {
   const [registry, artists, events] = await Promise.all([
     readJson(registryPath),
@@ -125,8 +129,13 @@ async function main() {
 
     for (const event of events) {
       if (event.artistSlug === source.artistSlug || event.artist === artist.name) {
-        event.heroImage = source.targetPath;
-        event.heroImageAttribution = buildAttribution(source, resolved);
+        if (source.useForEvents) {
+          event.heroImage = source.targetPath;
+          event.heroImageAttribution = buildAttribution(source, resolved);
+        } else {
+          event.heroImage = defaultEventVisual(event.slug);
+          delete event.heroImageAttribution;
+        }
       }
     }
   }
