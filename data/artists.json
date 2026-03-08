@@ -5,7 +5,7 @@
     "nameKo": "앤팀",
     "fandom": "LUNE",
     "tagline": "舞台型 / 日本场 现场情报",
-    "intro": "看 &TEAM 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 &TEAM 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "accent": "#6b6f8f",
     "officialUrl": "https://weverse.io/andteam",
     "agency": "YX LABELS",
@@ -24,63 +24,63 @@
         "slug": "k",
         "name": "K",
         "role": "主舞台焦点",
-        "profile": "K 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "K 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "K"
       },
       {
         "slug": "fuma",
         "name": "Fuma",
         "role": "现场气氛担当",
-        "profile": "Fuma 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Fuma 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "FU"
       },
       {
         "slug": "nicholas",
         "name": "Nicholas",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Nicholas 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Nicholas 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "NI"
       },
       {
         "slug": "ej",
         "name": "EJ",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 EJ 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 EJ 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "EJ"
       },
       {
         "slug": "yuma",
         "name": "Yuma",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Yuma 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Yuma 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "YU"
       },
       {
         "slug": "jo",
         "name": "Jo",
         "role": "视觉与表演亮点",
-        "profile": "Jo 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Jo 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "JO"
       },
       {
         "slug": "harua",
         "name": "Harua",
         "role": "主舞台焦点",
-        "profile": "Harua 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Harua 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "HA"
       },
       {
         "slug": "taki",
         "name": "Taki",
         "role": "现场气氛担当",
-        "profile": "Taki 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Taki 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "TA"
       },
       {
         "slug": "maki",
         "name": "Maki",
         "role": "高辨识 vocal tone",
-        "profile": "Maki 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Maki 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "MA"
       }
     ]
@@ -91,7 +91,7 @@
     "nameKo": "에스파",
     "fandom": "MY",
     "tagline": "Arena / 全球线路 现场情报",
-    "intro": "看 aespa 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和抢票优先级。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 aespa 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和票档优先级。这里会把这些重点和官方入口一起整理好。",
     "accent": "#5377a4",
     "officialUrl": "https://weverse.io/aespa",
     "agency": "SM Entertainment",
@@ -110,28 +110,28 @@
         "slug": "karina",
         "name": "Karina",
         "role": "主舞台焦点",
-        "profile": "Karina 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Karina 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "KA"
       },
       {
         "slug": "winter",
         "name": "Winter",
         "role": "现场气氛担当",
-        "profile": "Winter 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Winter 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "WI"
       },
       {
         "slug": "giselle",
         "name": "Giselle",
         "role": "高辨识 vocal tone",
-        "profile": "Giselle 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Giselle 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "GI"
       },
       {
         "slug": "ningning",
         "name": "Ningning",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Ningning 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Ningning 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "NI"
       }
     ]
@@ -142,7 +142,7 @@
     "nameKo": "에이티즈",
     "fandom": "ATINY",
     "tagline": "Arena / 欧洲场 现场情报",
-    "intro": "如果 ATEEZ 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 ATEEZ 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#694f43",
     "officialUrl": "https://ateez.kqent.com/",
     "agency": "KQ Entertainment",
@@ -161,56 +161,56 @@
         "slug": "hongjoong",
         "name": "Hongjoong",
         "role": "主舞台焦点",
-        "profile": "Hongjoong 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Hongjoong 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "HO"
       },
       {
         "slug": "seonghwa",
         "name": "Seonghwa",
         "role": "现场气氛担当",
-        "profile": "Seonghwa 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Seonghwa 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "SE"
       },
       {
         "slug": "yunho",
         "name": "Yunho",
         "role": "高辨识 vocal tone",
-        "profile": "Yunho 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Yunho 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "YU"
       },
       {
         "slug": "yeosang",
         "name": "Yeosang",
         "role": "fan-cam 热门成员",
-        "profile": "Yeosang 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Yeosang 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "YE"
       },
       {
         "slug": "san",
         "name": "San",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 San 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 San 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "SA"
       },
       {
         "slug": "mingi",
         "name": "Mingi",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Mingi 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Mingi 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "MI"
       },
       {
         "slug": "wooyoung",
         "name": "Wooyoung",
         "role": "主舞台焦点",
-        "profile": "Wooyoung 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Wooyoung 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "WO"
       },
       {
         "slug": "jongho",
         "name": "Jongho",
         "role": "现场气氛担当",
-        "profile": "Jongho 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Jongho 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JO"
       }
     ],
@@ -228,7 +228,7 @@
     "nameKo": "베이비몬스터",
     "fandom": "MONSTIEZ",
     "tagline": "新团观察 / 亚洲场 现场情报",
-    "intro": "看 BABYMONSTER 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 BABYMONSTER 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "accent": "#544f3f",
     "officialUrl": "https://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=70",
     "agency": "YG Entertainment",
@@ -247,49 +247,49 @@
         "slug": "ruka",
         "name": "Ruka",
         "role": "主舞台焦点",
-        "profile": "Ruka 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Ruka 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "RU"
       },
       {
         "slug": "pharita",
         "name": "Pharita",
         "role": "现场气氛担当",
-        "profile": "Pharita 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Pharita 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "PH"
       },
       {
         "slug": "asa",
         "name": "Asa",
         "role": "高辨识 vocal tone",
-        "profile": "Asa 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Asa 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "AS"
       },
       {
         "slug": "ahyeon",
         "name": "Ahyeon",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Ahyeon 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Ahyeon 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "AH"
       },
       {
         "slug": "rami",
         "name": "Rami",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Rami 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Rami 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "RA"
       },
       {
         "slug": "rora",
         "name": "Rora",
         "role": "视觉与表演亮点",
-        "profile": "Rora 在现场最常被问到的看点，通常会围绕 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "Rora 在现场最常被问到的看点，通常都会落在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "RO"
       },
       {
         "slug": "chiquita",
         "name": "Chiquita",
         "role": "主舞台焦点",
-        "profile": "Chiquita 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Chiquita 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "CH"
       }
     ]
@@ -319,7 +319,7 @@
         "slug": "bibi",
         "name": "BIBI",
         "role": "主舞台焦点",
-        "profile": "BIBI 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "BIBI 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "BI"
       }
     ]
@@ -330,7 +330,7 @@
     "nameKo": "블랙핑크",
     "fandom": "BLINK",
     "tagline": "体育场 / 全球线路 现场情报",
-    "intro": "从抢票优先级到场馆动线，BLACKPINK 这一页会重点盯住 官方入口、热门场馆和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，BLACKPINK 这一页会重点盯住 官方入口、场馆重点和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
     "accent": "#2a1c1f",
     "officialUrl": "https://www.blackpinkmusic.com/",
     "agency": "YG Entertainment",
@@ -349,28 +349,28 @@
         "slug": "jisoo",
         "name": "Jisoo",
         "role": "主舞台焦点",
-        "profile": "Jisoo 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Jisoo 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JI"
       },
       {
         "slug": "jennie",
         "name": "Jennie",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Jennie 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Jennie 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JE"
       },
       {
         "slug": "ros",
         "name": "Rosé",
         "role": "高辨识 vocal tone",
-        "profile": "Rosé 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Rosé 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "RO"
       },
       {
         "slug": "lisa",
         "name": "Lisa",
         "role": "fan-cam 热门成员",
-        "profile": "Lisa 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Lisa 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "LI"
       }
     ],
@@ -388,7 +388,7 @@
     "nameKo": "보이넥스트도어",
     "fandom": "ONEDOOR",
     "tagline": "Fancon / 新团观察 现场情报",
-    "intro": "如果 BOYNEXTDOOR 已经进了你的下一场候选，这一页会把 官方入口、热门场馆和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 BOYNEXTDOOR 已经进了你的下一场候选，这一页会把 官方入口、场馆重点和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#5a6d43",
     "officialUrl": "https://weverse.io/boynextdoor",
     "agency": "KOZ Entertainment",
@@ -407,42 +407,42 @@
         "slug": "sungho",
         "name": "Sungho",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Sungho 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Sungho 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SU"
       },
       {
         "slug": "riwoo",
         "name": "Riwoo",
         "role": "现场气氛担当",
-        "profile": "Riwoo 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Riwoo 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "RI"
       },
       {
         "slug": "jaehyun",
         "name": "Jaehyun",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Jaehyun 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Jaehyun 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JA"
       },
       {
         "slug": "taesan",
         "name": "Taesan",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Taesan 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Taesan 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "TA"
       },
       {
         "slug": "leehan",
         "name": "Leehan",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Leehan 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Leehan 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "LE"
       },
       {
         "slug": "woonhak",
         "name": "Woonhak",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Woonhak 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Woonhak 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "WO"
       }
     ]
@@ -463,41 +463,41 @@
       "Arena"
     ],
     "tagline": "经典团体 / Band-ish 现场情报",
-    "intro": "从抢票优先级到场馆动线，BTOB 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，BTOB 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "eunkwang",
         "name": "Eunkwang",
         "role": "主舞台焦点",
-        "profile": "Eunkwang 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Eunkwang 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "EU"
       },
       {
         "slug": "minhyuk",
         "name": "Minhyuk",
         "role": "高辨识 vocal tone",
-        "profile": "Minhyuk 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Minhyuk 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "MI"
       },
       {
         "slug": "changsub",
         "name": "Changsub",
         "role": "现场气氛担当",
-        "profile": "Changsub 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Changsub 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "CH"
       },
       {
         "slug": "hyunsik",
         "name": "Hyunsik",
         "role": "fan-cam 热门成员",
-        "profile": "Hyunsik 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Hyunsik 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HY"
       },
       {
         "slug": "peniel",
         "name": "Peniel",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Peniel 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Peniel 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "PE"
       }
     ],
@@ -511,7 +511,7 @@
     "nameKo": "방탄소년단",
     "fandom": "ARMY",
     "tagline": "体育场 / 全球线路 现场情报",
-    "intro": "如果 BTS 已经进了你的下一场候选，这一页会把 官方入口、热门场馆和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 BTS 已经进了你的下一场候选，这一页会把 官方入口、场馆重点和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#40344a",
     "officialUrl": "https://weverse.io/bts",
     "agency": "BIGHIT MUSIC",
@@ -530,49 +530,49 @@
         "slug": "rm",
         "name": "RM",
         "role": "主舞台焦点",
-        "profile": "RM 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "RM 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "RM"
       },
       {
         "slug": "jin",
         "name": "Jin",
         "role": "现场气氛担当",
-        "profile": "Jin 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Jin 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "JI"
       },
       {
         "slug": "suga",
         "name": "SUGA",
         "role": "高辨识 vocal tone",
-        "profile": "SUGA 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "SUGA 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "SU"
       },
       {
         "slug": "j-hope",
         "name": "j-hope",
         "role": "fan-cam 热门成员",
-        "profile": "j-hope 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "j-hope 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "JH"
       },
       {
         "slug": "jimin",
         "name": "Jimin",
         "role": "舞台能量中轴",
-        "profile": "Jimin 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Jimin 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JI"
       },
       {
         "slug": "v",
         "name": "V",
         "role": "视觉与表演亮点",
-        "profile": "V 在现场最常被问到的看点，通常会围绕 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "V 在现场最常被问到的看点，通常都会落在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "V"
       },
       {
         "slug": "jung-kook",
         "name": "Jung Kook",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Jung Kook 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Jung Kook 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JK"
       }
     ]
@@ -583,7 +583,7 @@
     "nameKo": "데이식스",
     "fandom": "My Day",
     "tagline": "乐队现场 / Arena 现场情报",
-    "intro": "想追 DAY6 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 DAY6 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#6e6550",
     "officialUrl": "https://day6.jype.com/",
     "agency": "JYP Entertainment",
@@ -602,28 +602,28 @@
         "slug": "sungjin",
         "name": "Sungjin",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Sungjin 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Sungjin 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SU"
       },
       {
         "slug": "young-k",
         "name": "Young K",
         "role": "现场气氛担当",
-        "profile": "Young K 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Young K 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "YK"
       },
       {
         "slug": "wonpil",
         "name": "Wonpil",
         "role": "高辨识 vocal tone",
-        "profile": "Wonpil 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Wonpil 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "WO"
       },
       {
         "slug": "dowoon",
         "name": "Dowoon",
         "role": "fan-cam 热门成员",
-        "profile": "Dowoon 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Dowoon 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "DO"
       }
     ],
@@ -641,7 +641,7 @@
     "nameKo": "엔하이픈",
     "fandom": "ENGENE",
     "tagline": "Arena / 北美场 现场情报",
-    "intro": "从抢票优先级到场馆动线，ENHYPEN 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，ENHYPEN 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#6d5945",
     "officialUrl": "https://weverse.io/enhypen",
     "agency": "BELIFT LAB",
@@ -660,49 +660,49 @@
         "slug": "jungwon",
         "name": "Jungwon",
         "role": "主舞台焦点",
-        "profile": "Jungwon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Jungwon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "JU"
       },
       {
         "slug": "heeseung",
         "name": "Heeseung",
         "role": "现场气氛担当",
-        "profile": "Heeseung 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Heeseung 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HE"
       },
       {
         "slug": "jay",
         "name": "Jay",
         "role": "高辨识 vocal tone",
-        "profile": "Jay 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Jay 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JA"
       },
       {
         "slug": "jake",
         "name": "Jake",
         "role": "fan-cam 热门成员",
-        "profile": "Jake 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Jake 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "JA"
       },
       {
         "slug": "sunghoon",
         "name": "Sunghoon",
         "role": "舞台能量中轴",
-        "profile": "Sunghoon 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Sunghoon 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "SU"
       },
       {
         "slug": "sunoo",
         "name": "Sunoo",
         "role": "视觉与表演亮点",
-        "profile": "Sunoo 在现场最常被问到的看点，通常会围绕 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "Sunoo 在现场最常被问到的看点，通常都会落在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "SU"
       },
       {
         "slug": "ni-ki",
         "name": "Ni-ki",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Ni-ki 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Ni-ki 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "NK"
       }
     ]
@@ -723,55 +723,55 @@
       "跨城观演"
     ],
     "tagline": "Fancon / 新团观察 现场情报",
-    "intro": "想追 EVNNE 的现场，先把 官方入口、热门场馆和最值得先看的观演细节 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 EVNNE 的现场，先把 官方入口、场馆重点和最值得先看的观演细节 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "members": [
       {
         "slug": "keita",
         "name": "Keita",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Keita 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Keita 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "KE"
       },
       {
         "slug": "park-hanbin",
         "name": "Park Hanbin",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Park Hanbin 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Park Hanbin 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "PH"
       },
       {
         "slug": "lee-jeonghyeon",
         "name": "Lee Jeonghyeon",
         "role": "现场气氛担当",
-        "profile": "Lee Jeonghyeon 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Lee Jeonghyeon 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "LJ"
       },
       {
         "slug": "yoo-seungeon",
         "name": "Yoo Seungeon",
         "role": "fan-cam 热门成员",
-        "profile": "Yoo Seungeon 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Yoo Seungeon 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "YS"
       },
       {
         "slug": "ji-yunseo",
         "name": "Ji Yunseo",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Ji Yunseo 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Ji Yunseo 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "JY"
       },
       {
         "slug": "mun-junghyun",
         "name": "Mun Junghyun",
         "role": "舞台能量中轴",
-        "profile": "Mun Junghyun 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Mun Junghyun 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "MJ"
       },
       {
         "slug": "park-jihoo",
         "name": "Park Jihoo",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Park Jihoo 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Park Jihoo 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "PJ"
       }
     ],
@@ -785,7 +785,7 @@
     "nameKo": "엑소",
     "fandom": "EXO-L",
     "tagline": "经典团体 / Arena 现场情报",
-    "intro": "想追 EXO 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 EXO 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#7b6b5b",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -804,56 +804,56 @@
         "slug": "xiumin",
         "name": "Xiumin",
         "role": "主舞台焦点",
-        "profile": "Xiumin 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Xiumin 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "XI"
       },
       {
         "slug": "suho",
         "name": "Suho",
         "role": "现场气氛担当",
-        "profile": "Suho 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Suho 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "SU"
       },
       {
         "slug": "baekhyun",
         "name": "Baekhyun",
         "role": "高辨识 vocal tone",
-        "profile": "Baekhyun 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Baekhyun 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "BA"
       },
       {
         "slug": "chen",
         "name": "Chen",
         "role": "fan-cam 热门成员",
-        "profile": "Chen 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Chen 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "CH"
       },
       {
         "slug": "chanyeol",
         "name": "Chanyeol",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Chanyeol 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Chanyeol 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "CH"
       },
       {
         "slug": "d-o",
         "name": "D.O.",
         "role": "视觉与表演亮点",
-        "profile": "D.O. 在现场最常被问到的看点，通常会围绕 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "D.O. 在现场最常被问到的看点，通常都会落在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "DO"
       },
       {
         "slug": "kai",
         "name": "Kai",
         "role": "主舞台焦点",
-        "profile": "Kai 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Kai 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "KA"
       },
       {
         "slug": "sehun",
         "name": "Sehun",
         "role": "现场气氛担当",
-        "profile": "Sehun 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Sehun 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "SE"
       }
     ]
@@ -864,7 +864,7 @@
     "nameKo": "프로미스나인",
     "fandom": "flover",
     "tagline": "粉圈热度 / 韩国场 现场情报",
-    "intro": "看 fromis_9 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 fromis_9 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "accent": "#5b8a79",
     "officialUrl": "https://weverse.io/fromis9",
     "agency": "ASND",
@@ -883,56 +883,56 @@
         "slug": "saerom",
         "name": "Saerom",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Saerom 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Saerom 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SA"
       },
       {
         "slug": "hayoung",
         "name": "Hayoung",
         "role": "现场气氛担当",
-        "profile": "Hayoung 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Hayoung 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HA"
       },
       {
         "slug": "jiwon",
         "name": "Jiwon",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Jiwon 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Jiwon 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JI"
       },
       {
         "slug": "jisun",
         "name": "Jisun",
         "role": "fan-cam 热门成员",
-        "profile": "Jisun 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Jisun 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "JI"
       },
       {
         "slug": "seoyeon",
         "name": "Seoyeon",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Seoyeon 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Seoyeon 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "SE"
       },
       {
         "slug": "chaeyoung",
         "name": "Chaeyoung",
         "role": "视觉与表演亮点",
-        "profile": "Chaeyoung 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Chaeyoung 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "CH"
       },
       {
         "slug": "nagyung",
         "name": "Nagyung",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Nagyung 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Nagyung 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "NA"
       },
       {
         "slug": "jiheon",
         "name": "Jiheon",
         "role": "现场气氛担当",
-        "profile": "Jiheon 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Jiheon 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JI"
       }
     ]
@@ -953,55 +953,55 @@
       "Arena"
     ],
     "tagline": "经典团体 / 全球线路 现场情报",
-    "intro": "如果 GOT7 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 GOT7 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "members": [
       {
         "slug": "jay-b",
         "name": "Jay B",
         "role": "主舞台焦点",
-        "profile": "Jay B 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Jay B 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JB"
       },
       {
         "slug": "mark",
         "name": "Mark",
         "role": "高辨识 vocal tone",
-        "profile": "Mark 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Mark 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "MA"
       },
       {
         "slug": "jackson",
         "name": "Jackson",
         "role": "现场气氛担当",
-        "profile": "Jackson 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Jackson 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "JA"
       },
       {
         "slug": "jinyoung",
         "name": "Jinyoung",
         "role": "fan-cam 热门成员",
-        "profile": "Jinyoung 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Jinyoung 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "JI"
       },
       {
         "slug": "youngjae",
         "name": "Youngjae",
         "role": "表演线亮点",
-        "profile": "Youngjae 在现场最常被问到的看点，通常会围绕 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "Youngjae 在现场最常被问到的看点，通常都会落在 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "YO"
       },
       {
         "slug": "bambam",
         "name": "BamBam",
         "role": "舞台能量中轴",
-        "profile": "BamBam 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "BamBam 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "BA"
       },
       {
         "slug": "yugyeom",
         "name": "Yugyeom",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Yugyeom 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Yugyeom 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "YU"
       }
     ],
@@ -1025,34 +1025,34 @@
       "亚洲场"
     ],
     "tagline": "新团观察 / 音乐节 现场情报",
-    "intro": "从抢票优先级到场馆动线，H1-KEY 这一页会重点盯住 官方入口、热门场馆和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，H1-KEY 这一页会重点盯住 官方入口、场馆重点和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "seoi",
         "name": "Seoi",
         "role": "主舞台焦点",
-        "profile": "Seoi 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Seoi 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "SE"
       },
       {
         "slug": "riina",
         "name": "Riina",
         "role": "高辨识 vocal tone",
-        "profile": "Riina 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Riina 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "RI"
       },
       {
         "slug": "hwiseo",
         "name": "Hwiseo",
         "role": "现场气氛担当",
-        "profile": "Hwiseo 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Hwiseo 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HW"
       },
       {
         "slug": "yel",
         "name": "Yel",
         "role": "fan-cam 热门成员",
-        "profile": "Yel 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Yel 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "YE"
       }
     ],
@@ -1066,7 +1066,7 @@
     "nameKo": "아이들",
     "fandom": "NEVERLAND",
     "tagline": "全球线路 / Arena 现场情报",
-    "intro": "如果 i-dle 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 i-dle 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#7d5b6d",
     "officialUrl": "https://www.cubeent.co.kr/gidle",
     "agency": "Cube Entertainment",
@@ -1085,35 +1085,35 @@
         "slug": "miyeon",
         "name": "Miyeon",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Miyeon 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Miyeon 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "MI"
       },
       {
         "slug": "minnie",
         "name": "Minnie",
         "role": "现场气氛担当",
-        "profile": "Minnie 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Minnie 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "MI"
       },
       {
         "slug": "soyeon",
         "name": "Soyeon",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Soyeon 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Soyeon 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "SO"
       },
       {
         "slug": "yuqi",
         "name": "Yuqi",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Yuqi 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Yuqi 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "YU"
       },
       {
         "slug": "shuhua",
         "name": "Shuhua",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Shuhua 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Shuhua 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "SH"
       }
     ]
@@ -1124,7 +1124,7 @@
     "nameKo": "아일릿",
     "fandom": "GLLIT",
     "tagline": "新团观察 / 亚洲场 现场情报",
-    "intro": "看 ILLIT 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 ILLIT 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "accent": "#8a6f5d",
     "officialUrl": "https://weverse.io/illit",
     "agency": "BELIFT LAB",
@@ -1143,35 +1143,35 @@
         "slug": "yunah",
         "name": "Yunah",
         "role": "主舞台焦点",
-        "profile": "Yunah 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Yunah 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "YU"
       },
       {
         "slug": "minju",
         "name": "Minju",
         "role": "现场气氛担当",
-        "profile": "Minju 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Minju 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "MI"
       },
       {
         "slug": "moka",
         "name": "Moka",
         "role": "高辨识 vocal tone",
-        "profile": "Moka 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Moka 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "MO"
       },
       {
         "slug": "wonhee",
         "name": "Wonhee",
         "role": "fan-cam 热门成员",
-        "profile": "Wonhee 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Wonhee 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "WO"
       },
       {
         "slug": "iroha",
         "name": "Iroha",
         "role": "舞台能量中轴",
-        "profile": "Iroha 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Iroha 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "IR"
       }
     ]
@@ -1182,7 +1182,7 @@
     "nameKo": "있지",
     "fandom": "MIDZY",
     "tagline": "Arena / 亚洲场 现场情报",
-    "intro": "想追 ITZY 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 ITZY 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#7d5d4f",
     "officialUrl": "https://itzy.jype.com/",
     "agency": "JYP Entertainment",
@@ -1201,35 +1201,35 @@
         "slug": "yeji",
         "name": "Yeji",
         "role": "主舞台焦点",
-        "profile": "Yeji 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Yeji 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "YE"
       },
       {
         "slug": "lia",
         "name": "Lia",
         "role": "现场气氛担当",
-        "profile": "Lia 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Lia 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "LI"
       },
       {
         "slug": "ryujin",
         "name": "Ryujin",
         "role": "高辨识 vocal tone",
-        "profile": "Ryujin 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Ryujin 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "RY"
       },
       {
         "slug": "chaeryeong",
         "name": "Chaeryeong",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Chaeryeong 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Chaeryeong 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "CH"
       },
       {
         "slug": "yuna",
         "name": "Yuna",
         "role": "舞台能量中轴",
-        "profile": "Yuna 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Yuna 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "YU"
       }
     ],
@@ -1266,7 +1266,7 @@
         "slug": "iu",
         "name": "IU",
         "role": "主舞台焦点",
-        "profile": "IU 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "IU 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "IU"
       }
     ]
@@ -1277,7 +1277,7 @@
     "nameKo": "아이브",
     "fandom": "DIVE",
     "tagline": "亚洲场 / Arena 现场情报",
-    "intro": "想追 IVE 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 IVE 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#7e5265",
     "officialUrl": "https://www.ive-official.com/",
     "agency": "Starship Entertainment",
@@ -1296,42 +1296,42 @@
         "slug": "yujin",
         "name": "Yujin",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Yujin 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Yujin 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "YU"
       },
       {
         "slug": "gaeul",
         "name": "Gaeul",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Gaeul 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Gaeul 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "GA"
       },
       {
         "slug": "rei",
         "name": "Rei",
         "role": "高辨识 vocal tone",
-        "profile": "Rei 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Rei 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "RE"
       },
       {
         "slug": "wonyoung",
         "name": "Wonyoung",
         "role": "fan-cam 热门成员",
-        "profile": "Wonyoung 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Wonyoung 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "WO"
       },
       {
         "slug": "liz",
         "name": "Liz",
         "role": "舞台能量中轴",
-        "profile": "Liz 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Liz 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "LI"
       },
       {
         "slug": "leeseo",
         "name": "Leeseo",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Leeseo 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Leeseo 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "LE"
       }
     ]
@@ -1352,55 +1352,55 @@
       "粉圈热度"
     ],
     "tagline": "新团观察 / 持续关注 现场情报",
-    "intro": "看 izna 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 izna 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "members": [
       {
         "slug": "mai",
         "name": "Mai",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Mai 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Mai 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "MA"
       },
       {
         "slug": "jeemin",
         "name": "Jeemin",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Jeemin 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Jeemin 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JE"
       },
       {
         "slug": "jiyoon",
         "name": "Jiyoon",
         "role": "现场气氛担当",
-        "profile": "Jiyoon 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Jiyoon 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JI"
       },
       {
         "slug": "koko",
         "name": "Koko",
         "role": "fan-cam 热门成员",
-        "profile": "Koko 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Koko 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "KO"
       },
       {
         "slug": "sarang",
         "name": "Sarang",
         "role": "表演线亮点",
-        "profile": "Sarang 的现场魅力通常会在 编排细节和动作力度更值得用正面或微斜角视线去看。  这几个位置被放大得最明显。",
+        "profile": "Sarang 的现场魅力，通常会在 正面或微斜角最能看到动作力度、线条和编排细节 这些位置被放大得最明显。",
         "initials": "SA"
       },
       {
         "slug": "jeongeun",
         "name": "Jeongeun",
         "role": "舞台能量中轴",
-        "profile": "Jeongeun 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Jeongeun 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JE"
       },
       {
         "slug": "saebi",
         "name": "Saebi",
         "role": "主舞台焦点",
-        "profile": "Saebi 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Saebi 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "SA"
       }
     ],
@@ -1433,7 +1433,7 @@
         "slug": "j-hope",
         "name": "j-hope",
         "role": "主舞台焦点",
-        "profile": "j-hope 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "j-hope 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JH"
       }
     ]
@@ -1463,7 +1463,7 @@
         "slug": "jimin",
         "name": "Jimin",
         "role": "主舞台焦点",
-        "profile": "Jimin 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Jimin 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "JI"
       }
     ]
@@ -1474,7 +1474,7 @@
     "nameKo": "진",
     "fandom": "ARMY",
     "tagline": "Solo / Arena 现场情报",
-    "intro": "如果 Jin 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级、舞台距离、灯光层次和个人 focus 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 Jin 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级、舞台距离、灯光层次和个人 focus 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#6a7a8d",
     "officialUrl": "https://weverse.io/jin",
     "agency": "BIGHIT MUSIC",
@@ -1493,7 +1493,7 @@
         "slug": "jin",
         "name": "Jin",
         "role": "主舞台焦点",
-        "profile": "Jin 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Jin 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JI"
       }
     ]
@@ -1504,7 +1504,7 @@
     "nameKo": "정국",
     "fandom": "ARMY",
     "tagline": "Solo / 全球线路 现场情报",
-    "intro": "如果 Jung Kook 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级、舞台距离、灯光层次和个人 focus 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 Jung Kook 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级、舞台距离、灯光层次和个人 focus 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#5a6c55",
     "officialUrl": "https://weverse.io/jungkook",
     "agency": "BIGHIT MUSIC",
@@ -1523,7 +1523,7 @@
         "slug": "jung-kook",
         "name": "Jung Kook",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Jung Kook 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Jung Kook 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JK"
       }
     ]
@@ -1534,7 +1534,7 @@
     "nameKo": "캣츠아이",
     "fandom": "EYEKONS",
     "tagline": "全球线路 / Showcase 现场情报",
-    "intro": "看 KATSEYE 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 KATSEYE 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "accent": "#8e6354",
     "officialUrl": "https://weverse.io/katseye",
     "agency": "HYBE x Geffen",
@@ -1553,42 +1553,42 @@
         "slug": "manon",
         "name": "Manon",
         "role": "主舞台焦点",
-        "profile": "Manon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Manon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "MA"
       },
       {
         "slug": "sophia",
         "name": "Sophia",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Sophia 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Sophia 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "SO"
       },
       {
         "slug": "daniela",
         "name": "Daniela",
         "role": "高辨识 vocal tone",
-        "profile": "Daniela 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Daniela 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "DA"
       },
       {
         "slug": "lara",
         "name": "Lara",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Lara 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Lara 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "LA"
       },
       {
         "slug": "megan",
         "name": "Megan",
         "role": "舞台能量中轴",
-        "profile": "Megan 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Megan 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "ME"
       },
       {
         "slug": "yoonchae",
         "name": "Yoonchae",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Yoonchae 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Yoonchae 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "YO"
       }
     ]
@@ -1609,55 +1609,55 @@
       "跨城观演"
     ],
     "tagline": "Arena / 日本场 现场情报",
-    "intro": "想追 Kep1er 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 Kep1er 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "members": [
       {
         "slug": "yujin",
         "name": "Yujin",
         "role": "主舞台焦点",
-        "profile": "Yujin 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Yujin 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "YU"
       },
       {
         "slug": "xiaoting",
         "name": "Xiaoting",
         "role": "高辨识 vocal tone",
-        "profile": "Xiaoting 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Xiaoting 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "XI"
       },
       {
         "slug": "chaehyun",
         "name": "Chaehyun",
         "role": "现场气氛担当",
-        "profile": "Chaehyun 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Chaehyun 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "CH"
       },
       {
         "slug": "dayeon",
         "name": "Dayeon",
         "role": "fan-cam 热门成员",
-        "profile": "Dayeon 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Dayeon 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "DA"
       },
       {
         "slug": "hikaru",
         "name": "Hikaru",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Hikaru 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Hikaru 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "HI"
       },
       {
         "slug": "huening-bahiyyih",
         "name": "Huening Bahiyyih",
         "role": "舞台能量中轴",
-        "profile": "Huening Bahiyyih 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Huening Bahiyyih 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "HB"
       },
       {
         "slug": "youngeun",
         "name": "Youngeun",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Youngeun 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Youngeun 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "YO"
       }
     ],
@@ -1681,55 +1681,55 @@
       "跨城观演"
     ],
     "tagline": "新团观察 / 持续关注 现场情报",
-    "intro": "如果 KickFlip 已经进了你的下一场候选，这一页会把 官方入口、热门场馆和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 KickFlip 已经进了你的下一场候选，这一页会把 官方入口、场馆重点和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "members": [
       {
         "slug": "kyehoon",
         "name": "Kyehoon",
         "role": "主舞台焦点",
-        "profile": "Kyehoon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Kyehoon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "KY"
       },
       {
         "slug": "amaru",
         "name": "Amaru",
         "role": "高辨识 vocal tone",
-        "profile": "Amaru 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Amaru 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "AM"
       },
       {
         "slug": "donghwa",
         "name": "Donghwa",
         "role": "现场气氛担当",
-        "profile": "Donghwa 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Donghwa 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "DO"
       },
       {
         "slug": "juwang",
         "name": "Juwang",
         "role": "fan-cam 热门成员",
-        "profile": "Juwang 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Juwang 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "JU"
       },
       {
         "slug": "minje",
         "name": "Minje",
         "role": "表演线亮点",
-        "profile": "Minje 的现场魅力通常会在 编排细节和动作力度更值得用正面或微斜角视线去看。  这几个位置被放大得最明显。",
+        "profile": "Minje 的现场魅力，通常会在 正面或微斜角最能看到动作力度、线条和编排细节 这些位置被放大得最明显。",
         "initials": "MI"
       },
       {
         "slug": "keiju",
         "name": "Keiju",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Keiju 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Keiju 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "KE"
       },
       {
         "slug": "donghyeon",
         "name": "Donghyeon",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Donghyeon 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Donghyeon 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "DO"
       }
     ],
@@ -1743,7 +1743,7 @@
     "nameKo": "키스오브라이프",
     "fandom": "KISSY",
     "tagline": "Club / 音乐节 现场情报",
-    "intro": "如果 KISS OF LIFE 已经进了你的下一场候选，这一页会把 官方入口、热门场馆和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 KISS OF LIFE 已经进了你的下一场候选，这一页会把 官方入口、场馆重点和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#8d4c45",
     "officialUrl": "https://www.s2ent.co.kr/",
     "agency": "S2 Entertainment",
@@ -1762,28 +1762,28 @@
         "slug": "julie",
         "name": "Julie",
         "role": "主舞台焦点",
-        "profile": "Julie 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Julie 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JU"
       },
       {
         "slug": "natty",
         "name": "Natty",
         "role": "现场气氛担当",
-        "profile": "Natty 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Natty 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "NA"
       },
       {
         "slug": "belle",
         "name": "Belle",
         "role": "高辨识 vocal tone",
-        "profile": "Belle 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Belle 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "BE"
       },
       {
         "slug": "haneul",
         "name": "Haneul",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Haneul 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Haneul 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "HA"
       }
     ],
@@ -1801,7 +1801,7 @@
     "nameKo": "르세라핌",
     "fandom": "FEARNOT",
     "tagline": "Arena / 全球线路 现场情报",
-    "intro": "想追 LE SSERAFIM 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 LE SSERAFIM 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#49614d",
     "officialUrl": "https://weverse.io/lesserafim",
     "agency": "SOURCE MUSIC",
@@ -1820,35 +1820,35 @@
         "slug": "chaewon",
         "name": "Chaewon",
         "role": "主舞台焦点",
-        "profile": "Chaewon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Chaewon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "CH"
       },
       {
         "slug": "sakura",
         "name": "Sakura",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Sakura 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Sakura 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "SA"
       },
       {
         "slug": "yunjin",
         "name": "Yunjin",
         "role": "高辨识 vocal tone",
-        "profile": "Yunjin 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Yunjin 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "YU"
       },
       {
         "slug": "kazuha",
         "name": "Kazuha",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Kazuha 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Kazuha 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "KA"
       },
       {
         "slug": "eunchae",
         "name": "Eunchae",
         "role": "舞台能量中轴",
-        "profile": "Eunchae 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Eunchae 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "EU"
       }
     ]
@@ -1859,7 +1859,7 @@
     "nameKo": "미야오",
     "fandom": "PAWMPAWM",
     "tagline": "新团观察 / 舞美强项 现场情报",
-    "intro": "如果 MEOVV 已经进了你的下一场候选，这一页会把 官方入口、热门场馆和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 MEOVV 已经进了你的下一场候选，这一页会把 官方入口、场馆重点和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#7a5f57",
     "officialUrl": "https://www.instagram.com/meovv/",
     "agency": "THEBLACKLABEL",
@@ -1878,35 +1878,35 @@
         "slug": "sooin",
         "name": "Sooin",
         "role": "主舞台焦点",
-        "profile": "Sooin 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Sooin 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "SO"
       },
       {
         "slug": "gawon",
         "name": "Gawon",
         "role": "现场气氛担当",
-        "profile": "Gawon 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Gawon 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "GA"
       },
       {
         "slug": "anna",
         "name": "Anna",
         "role": "高辨识 vocal tone",
-        "profile": "Anna 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Anna 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "AN"
       },
       {
         "slug": "narin",
         "name": "Narin",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Narin 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Narin 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "NA"
       },
       {
         "slug": "ella",
         "name": "Ella",
         "role": "舞台能量中轴",
-        "profile": "Ella 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Ella 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "EL"
       }
     ]
@@ -1917,7 +1917,7 @@
     "nameKo": "몬스타엑스",
     "fandom": "MONBEBE",
     "tagline": "经典团体 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，MONSTA X 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，MONSTA X 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#5c5668",
     "officialUrl": "https://monstax-official.com/",
     "agency": "Starship Entertainment",
@@ -1936,42 +1936,42 @@
         "slug": "shownu",
         "name": "Shownu",
         "role": "主舞台焦点",
-        "profile": "Shownu 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Shownu 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "SH"
       },
       {
         "slug": "minhyuk",
         "name": "Minhyuk",
         "role": "现场气氛担当",
-        "profile": "Minhyuk 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Minhyuk 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "MI"
       },
       {
         "slug": "kihyun",
         "name": "Kihyun",
         "role": "高辨识 vocal tone",
-        "profile": "Kihyun 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Kihyun 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "KI"
       },
       {
         "slug": "hyungwon",
         "name": "Hyungwon",
         "role": "fan-cam 热门成员",
-        "profile": "Hyungwon 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Hyungwon 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HY"
       },
       {
         "slug": "joohoney",
         "name": "Joohoney",
         "role": "舞台能量中轴",
-        "profile": "Joohoney 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Joohoney 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JO"
       },
       {
         "slug": "i-m",
         "name": "I.M",
         "role": "视觉与表演亮点",
-        "profile": "I.M 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "I.M 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "IM"
       }
     ]
@@ -1982,7 +1982,7 @@
     "nameKo": "엔시티 127",
     "fandom": "NCTzen",
     "tagline": "Arena / World Tour 现场情报",
-    "intro": "想追 NCT 127 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 NCT 127 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#6f7d53",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -2001,56 +2001,56 @@
         "slug": "johnny",
         "name": "Johnny",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Johnny 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Johnny 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JO"
       },
       {
         "slug": "taeyong",
         "name": "Taeyong",
         "role": "现场气氛担当",
-        "profile": "Taeyong 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Taeyong 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "TA"
       },
       {
         "slug": "yuta",
         "name": "Yuta",
         "role": "高辨识 vocal tone",
-        "profile": "Yuta 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Yuta 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "YU"
       },
       {
         "slug": "doyoung",
         "name": "Doyoung",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Doyoung 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Doyoung 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "DO"
       },
       {
         "slug": "jaehyun",
         "name": "Jaehyun",
         "role": "舞台能量中轴",
-        "profile": "Jaehyun 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Jaehyun 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "JA"
       },
       {
         "slug": "jungwoo",
         "name": "Jungwoo",
         "role": "视觉与表演亮点",
-        "profile": "Jungwoo 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Jungwoo 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "JU"
       },
       {
         "slug": "mark",
         "name": "Mark",
         "role": "主舞台焦点",
-        "profile": "Mark 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Mark 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "MA"
       },
       {
         "slug": "haechan",
         "name": "Haechan",
         "role": "现场气氛担当",
-        "profile": "Haechan 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Haechan 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HA"
       }
     ]
@@ -2061,7 +2061,7 @@
     "nameKo": "엔시티 드림",
     "fandom": "NCTzen",
     "tagline": "Arena / 亚洲场 现场情报",
-    "intro": "从抢票优先级到场馆动线，NCT DREAM 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，NCT DREAM 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#809447",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -2080,49 +2080,49 @@
         "slug": "mark",
         "name": "Mark",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Mark 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Mark 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "MA"
       },
       {
         "slug": "renjun",
         "name": "Renjun",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Renjun 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Renjun 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "RE"
       },
       {
         "slug": "jeno",
         "name": "Jeno",
         "role": "高辨识 vocal tone",
-        "profile": "Jeno 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Jeno 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "JE"
       },
       {
         "slug": "haechan",
         "name": "Haechan",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Haechan 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Haechan 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "HA"
       },
       {
         "slug": "jaemin",
         "name": "Jaemin",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Jaemin 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Jaemin 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JA"
       },
       {
         "slug": "chenle",
         "name": "Chenle",
         "role": "视觉与表演亮点",
-        "profile": "Chenle 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Chenle 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "CH"
       },
       {
         "slug": "jisung",
         "name": "Jisung",
         "role": "主舞台焦点",
-        "profile": "Jisung 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Jisung 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "JI"
       }
     ]
@@ -2133,7 +2133,7 @@
     "nameKo": "뉴진스",
     "fandom": "Bunnies",
     "tagline": "全球线路 / 持续关注 现场情报",
-    "intro": "从抢票优先级到场馆动线，NewJeans 这一页会重点盯住 官方入口、热门场馆和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，NewJeans 这一页会重点盯住 官方入口、场馆重点和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
     "accent": "#6b7b94",
     "officialUrl": "https://weverse.io/newjeans",
     "agency": "ADOR",
@@ -2152,35 +2152,35 @@
         "slug": "minji",
         "name": "Minji",
         "role": "主舞台焦点",
-        "profile": "Minji 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Minji 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "MI"
       },
       {
         "slug": "hanni",
         "name": "Hanni",
         "role": "现场气氛担当",
-        "profile": "Hanni 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Hanni 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "HA"
       },
       {
         "slug": "danielle",
         "name": "Danielle",
         "role": "高辨识 vocal tone",
-        "profile": "Danielle 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Danielle 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "DA"
       },
       {
         "slug": "haerin",
         "name": "Haerin",
         "role": "fan-cam 热门成员",
-        "profile": "Haerin 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Haerin 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HA"
       },
       {
         "slug": "hyein",
         "name": "Hyein",
         "role": "舞台能量中轴",
-        "profile": "Hyein 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Hyein 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "HY"
       }
     ]
@@ -2201,55 +2201,55 @@
       "Arena"
     ],
     "tagline": "日本场 / 新团观察 现场情报",
-    "intro": "如果 NEXZ 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 NEXZ 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "members": [
       {
         "slug": "tomoya",
         "name": "Tomoya",
         "role": "主舞台焦点",
-        "profile": "Tomoya 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Tomoya 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "TO"
       },
       {
         "slug": "yu",
         "name": "Yu",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Yu 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Yu 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "YU"
       },
       {
         "slug": "haru",
         "name": "Haru",
         "role": "现场气氛担当",
-        "profile": "Haru 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Haru 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HA"
       },
       {
         "slug": "so-geon",
         "name": "So Geon",
         "role": "fan-cam 热门成员",
-        "profile": "So Geon 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "So Geon 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "SG"
       },
       {
         "slug": "seita",
         "name": "Seita",
         "role": "表演线亮点",
-        "profile": "Seita 在现场最常被问到的看点，通常会围绕 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "Seita 在现场最常被问到的看点，通常都会落在 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "SE"
       },
       {
         "slug": "hyui",
         "name": "Hyui",
         "role": "舞台能量中轴",
-        "profile": "Hyui 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Hyui 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "HY"
       },
       {
         "slug": "yuki",
         "name": "Yuki",
         "role": "主舞台焦点",
-        "profile": "Yuki 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Yuki 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "YU"
       }
     ],
@@ -2270,7 +2270,7 @@
     "nameKo": "엔믹스",
     "fandom": "NSWER",
     "tagline": "Arena / 音乐节 现场情报",
-    "intro": "想追 NMIXX 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 NMIXX 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#7d6d52",
     "officialUrl": "https://nmixx.jype.com/",
     "agency": "JYP Entertainment",
@@ -2289,42 +2289,42 @@
         "slug": "lily",
         "name": "Lily",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Lily 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Lily 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "LI"
       },
       {
         "slug": "haewon",
         "name": "Haewon",
         "role": "现场气氛担当",
-        "profile": "Haewon 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Haewon 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HA"
       },
       {
         "slug": "sullyoon",
         "name": "Sullyoon",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Sullyoon 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Sullyoon 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "SU"
       },
       {
         "slug": "bae",
         "name": "Bae",
         "role": "fan-cam 热门成员",
-        "profile": "Bae 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Bae 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "BA"
       },
       {
         "slug": "jiwoo",
         "name": "Jiwoo",
         "role": "舞台能量中轴",
-        "profile": "Jiwoo 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Jiwoo 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JI"
       },
       {
         "slug": "kyujin",
         "name": "Kyujin",
         "role": "视觉与表演亮点",
-        "profile": "Kyujin 在现场最常被问到的看点，通常会围绕 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "Kyujin 在现场最常被问到的看点，通常都会落在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "KY"
       }
     ],
@@ -2352,41 +2352,41 @@
       "亚洲场"
     ],
     "tagline": "跨城观演 / Arena 现场情报",
-    "intro": "看 ONEUS 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和抢票优先级。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 ONEUS 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和票档优先级。这里会把这些重点和官方入口一起整理好。",
     "members": [
       {
         "slug": "seoho",
         "name": "Seoho",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Seoho 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Seoho 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SE"
       },
       {
         "slug": "leedo",
         "name": "Leedo",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Leedo 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Leedo 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "LE"
       },
       {
         "slug": "keonhee",
         "name": "Keonhee",
         "role": "现场气氛担当",
-        "profile": "Keonhee 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Keonhee 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "KE"
       },
       {
         "slug": "hwanwoong",
         "name": "Hwanwoong",
         "role": "fan-cam 热门成员",
-        "profile": "Hwanwoong 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Hwanwoong 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HW"
       },
       {
         "slug": "xion",
         "name": "Xion",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Xion 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Xion 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "XI"
       }
     ],
@@ -2410,48 +2410,48 @@
       "跨城观演"
     ],
     "tagline": "北美场 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，P1Harmony 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，P1Harmony 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "keeho",
         "name": "Keeho",
         "role": "主舞台焦点",
-        "profile": "Keeho 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Keeho 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "KE"
       },
       {
         "slug": "theo",
         "name": "Theo",
         "role": "高辨识 vocal tone",
-        "profile": "Theo 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Theo 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "TH"
       },
       {
         "slug": "jiung",
         "name": "Jiung",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Jiung 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Jiung 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JI"
       },
       {
         "slug": "intak",
         "name": "Intak",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Intak 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Intak 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "IN"
       },
       {
         "slug": "soul",
         "name": "Soul",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Soul 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Soul 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "SO"
       },
       {
         "slug": "jongseob",
         "name": "Jongseob",
         "role": "舞台能量中轴",
-        "profile": "Jongseob 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Jongseob 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JO"
       }
     ],
@@ -2475,41 +2475,41 @@
       "粉圈热度"
     ],
     "tagline": "Virtual / Arena 现场情报",
-    "intro": "想追 PLAVE 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 PLAVE 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "members": [
       {
         "slug": "yejun",
         "name": "Yejun",
         "role": "主舞台焦点",
-        "profile": "Yejun 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Yejun 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "YE"
       },
       {
         "slug": "noah",
         "name": "Noah",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Noah 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Noah 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "NO"
       },
       {
         "slug": "bamby",
         "name": "Bamby",
         "role": "现场气氛担当",
-        "profile": "Bamby 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Bamby 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "BA"
       },
       {
         "slug": "eunho",
         "name": "Eunho",
         "role": "fan-cam 热门成员",
-        "profile": "Eunho 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Eunho 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "EU"
       },
       {
         "slug": "hamin",
         "name": "Hamin",
         "role": "表演线亮点",
-        "profile": "Hamin 的现场魅力通常会在 编排细节和动作力度更值得用正面或微斜角视线去看。  这几个位置被放大得最明显。",
+        "profile": "Hamin 的现场魅力，通常会在 正面或微斜角最能看到动作力度、线条和编排细节 这些位置被放大得最明显。",
         "initials": "HA"
       }
     ],
@@ -2533,34 +2533,34 @@
       "剧场"
     ],
     "tagline": "乐队现场 / 音乐节 现场情报",
-    "intro": "从抢票优先级到场馆动线，QWER 这一页会重点盯住 官方入口、热门场馆和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，QWER 这一页会重点盯住 官方入口、场馆重点和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "chodan",
         "name": "Chodan",
         "role": "主舞台焦点",
-        "profile": "Chodan 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Chodan 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "CH"
       },
       {
         "slug": "magenta",
         "name": "Magenta",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Magenta 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Magenta 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "MA"
       },
       {
         "slug": "hina",
         "name": "Hina",
         "role": "现场气氛担当",
-        "profile": "Hina 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Hina 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "HI"
       },
       {
         "slug": "siyeon",
         "name": "Siyeon",
         "role": "fan-cam 热门成员",
-        "profile": "Siyeon 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Siyeon 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "SI"
       }
     ],
@@ -2574,7 +2574,7 @@
     "nameKo": "레드벨벳",
     "fandom": "ReVeluv",
     "tagline": "经典团体 / Arena 现场情报",
-    "intro": "看 Red Velvet 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和抢票优先级。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 Red Velvet 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和票档优先级。这里会把这些重点和官方入口一起整理好。",
     "accent": "#8b4a58",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -2593,35 +2593,35 @@
         "slug": "irene",
         "name": "Irene",
         "role": "主舞台焦点",
-        "profile": "Irene 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Irene 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "IR"
       },
       {
         "slug": "seulgi",
         "name": "Seulgi",
         "role": "现场气氛担当",
-        "profile": "Seulgi 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Seulgi 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "SE"
       },
       {
         "slug": "wendy",
         "name": "Wendy",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Wendy 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Wendy 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "WE"
       },
       {
         "slug": "joy",
         "name": "Joy",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Joy 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Joy 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "JO"
       },
       {
         "slug": "yeri",
         "name": "Yeri",
         "role": "舞台能量中轴",
-        "profile": "Yeri 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Yeri 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "YE"
       }
     ]
@@ -2632,7 +2632,7 @@
     "nameKo": "라이즈",
     "fandom": "BRIIZE",
     "tagline": "新团观察 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，RIIZE 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，RIIZE 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#7e704f",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -2651,42 +2651,42 @@
         "slug": "shotaro",
         "name": "Shotaro",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Shotaro 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Shotaro 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SH"
       },
       {
         "slug": "eunseok",
         "name": "Eunseok",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Eunseok 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Eunseok 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "EU"
       },
       {
         "slug": "sungchan",
         "name": "Sungchan",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Sungchan 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Sungchan 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "SU"
       },
       {
         "slug": "wonbin",
         "name": "Wonbin",
         "role": "fan-cam 热门成员",
-        "profile": "Wonbin 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Wonbin 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "WO"
       },
       {
         "slug": "sohee",
         "name": "Sohee",
         "role": "舞台能量中轴",
-        "profile": "Sohee 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Sohee 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "SO"
       },
       {
         "slug": "anton",
         "name": "Anton",
         "role": "视觉与表演亮点",
-        "profile": "Anton 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Anton 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "AN"
       }
     ]
@@ -2697,7 +2697,7 @@
     "nameKo": "세븐틴",
     "fandom": "CARAT",
     "tagline": "World Tour / 会员先行 现场情报",
-    "intro": "如果 SEVENTEEN 已经进了你的下一场候选，这一页会把 官方入口、热门场馆和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 SEVENTEEN 已经进了你的下一场候选，这一页会把 官方入口、场馆重点和最值得先看的观演细节 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#d36e57",
     "officialUrl": "https://weverse.io/seventeen",
     "agency": "PLEDIS Entertainment",
@@ -2716,91 +2716,91 @@
         "slug": "s-coups",
         "name": "S.Coups",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 S.Coups 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 S.Coups 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SC"
       },
       {
         "slug": "jeonghan",
         "name": "Jeonghan",
         "role": "现场气氛担当",
-        "profile": "Jeonghan 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Jeonghan 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JE"
       },
       {
         "slug": "joshua",
         "name": "Joshua",
         "role": "高辨识 vocal tone",
-        "profile": "Joshua 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Joshua 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JO"
       },
       {
         "slug": "jun",
         "name": "Jun",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Jun 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Jun 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "JU"
       },
       {
         "slug": "hoshi",
         "name": "Hoshi",
         "role": "舞台能量中轴",
-        "profile": "Hoshi 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Hoshi 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "HO"
       },
       {
         "slug": "wonwoo",
         "name": "Wonwoo",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Wonwoo 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Wonwoo 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "WO"
       },
       {
         "slug": "woozi",
         "name": "Woozi",
         "role": "主舞台焦点",
-        "profile": "Woozi 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Woozi 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "WO"
       },
       {
         "slug": "dk",
         "name": "DK",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 DK 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 DK 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "DK"
       },
       {
         "slug": "mingyu",
         "name": "Mingyu",
         "role": "高辨识 vocal tone",
-        "profile": "Mingyu 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Mingyu 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "MI"
       },
       {
         "slug": "the8",
         "name": "The8",
         "role": "fan-cam 热门成员",
-        "profile": "The8 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "The8 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "TH"
       },
       {
         "slug": "seungkwan",
         "name": "Seungkwan",
         "role": "舞台能量中轴",
-        "profile": "Seungkwan 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Seungkwan 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "SE"
       },
       {
         "slug": "vernon",
         "name": "Vernon",
         "role": "视觉与表演亮点",
-        "profile": "Vernon 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Vernon 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "VE"
       },
       {
         "slug": "dino",
         "name": "Dino",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Dino 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Dino 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "DI"
       }
     ]
@@ -2811,7 +2811,7 @@
     "nameKo": "샤이니",
     "fandom": "SHINee World",
     "tagline": "经典团体 / Arena 现场情报",
-    "intro": "想追 SHINee 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 SHINee 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#5ca195",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -2830,28 +2830,28 @@
         "slug": "onew",
         "name": "Onew",
         "role": "主舞台焦点",
-        "profile": "Onew 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Onew 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "ON"
       },
       {
         "slug": "key",
         "name": "Key",
         "role": "现场气氛担当",
-        "profile": "Key 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Key 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "KE"
       },
       {
         "slug": "minho",
         "name": "Minho",
         "role": "高辨识 vocal tone",
-        "profile": "Minho 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Minho 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "MI"
       },
       {
         "slug": "taemin",
         "name": "Taemin",
         "role": "fan-cam 热门成员",
-        "profile": "Taemin 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Taemin 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "TA"
       }
     ]
@@ -2872,48 +2872,48 @@
       "跨城观演"
     ],
     "tagline": "Arena / 亚洲场 现场情报",
-    "intro": "想追 STAYC 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 STAYC 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "members": [
       {
         "slug": "sumin",
         "name": "Sumin",
         "role": "主舞台焦点",
-        "profile": "Sumin 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Sumin 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SU"
       },
       {
         "slug": "sieun",
         "name": "Sieun",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Sieun 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Sieun 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "SI"
       },
       {
         "slug": "isa",
         "name": "Isa",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Isa 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Isa 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "IS"
       },
       {
         "slug": "seeun",
         "name": "Seeun",
         "role": "fan-cam 热门成员",
-        "profile": "Seeun 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Seeun 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "SE"
       },
       {
         "slug": "yoon",
         "name": "Yoon",
         "role": "表演线亮点",
-        "profile": "Yoon 的现场魅力通常会在 编排细节和动作力度更值得用正面或微斜角视线去看。  这几个位置被放大得最明显。",
+        "profile": "Yoon 的现场魅力，通常会在 正面或微斜角最能看到动作力度、线条和编排细节 这些位置被放大得最明显。",
         "initials": "YO"
       },
       {
         "slug": "j",
         "name": "J",
         "role": "舞台能量中轴",
-        "profile": "J 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "J 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "J"
       }
     ],
@@ -2927,7 +2927,7 @@
     "nameKo": "스트레이 키즈",
     "fandom": "STAY",
     "tagline": "Arena / 体育场 现场情报",
-    "intro": "从抢票优先级到场馆动线，Stray Kids 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，Stray Kids 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#6a4a34",
     "officialUrl": "https://www.straykids.jype.com/",
     "agency": "JYP Entertainment",
@@ -2946,56 +2946,56 @@
         "slug": "bang-chan",
         "name": "Bang Chan",
         "role": "主舞台焦点",
-        "profile": "Bang Chan 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Bang Chan 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "BC"
       },
       {
         "slug": "lee-know",
         "name": "Lee Know",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Lee Know 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Lee Know 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "LK"
       },
       {
         "slug": "changbin",
         "name": "Changbin",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Changbin 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Changbin 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "CH"
       },
       {
         "slug": "hyunjin",
         "name": "Hyunjin",
         "role": "fan-cam 热门成员",
-        "profile": "Hyunjin 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Hyunjin 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HY"
       },
       {
         "slug": "han",
         "name": "Han",
         "role": "舞台能量中轴",
-        "profile": "Han 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Han 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "HA"
       },
       {
         "slug": "felix",
         "name": "Felix",
         "role": "视觉与表演亮点",
-        "profile": "Felix 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Felix 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "FE"
       },
       {
         "slug": "seungmin",
         "name": "Seungmin",
         "role": "主舞台焦点",
-        "profile": "Seungmin 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Seungmin 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SE"
       },
       {
         "slug": "i-n",
         "name": "I.N",
         "role": "现场气氛担当",
-        "profile": "I.N 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "I.N 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "IN"
       }
     ],
@@ -3023,69 +3023,69 @@
       "亚洲场"
     ],
     "tagline": "经典团体 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，SUPER JUNIOR 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，SUPER JUNIOR 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "leeteuk",
         "name": "Leeteuk",
         "role": "主舞台焦点",
-        "profile": "Leeteuk 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Leeteuk 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "LE"
       },
       {
         "slug": "heechul",
         "name": "Heechul",
         "role": "高辨识 vocal tone",
-        "profile": "Heechul 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Heechul 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "HE"
       },
       {
         "slug": "yesung",
         "name": "Yesung",
         "role": "现场气氛担当",
-        "profile": "Yesung 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Yesung 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "YE"
       },
       {
         "slug": "shindong",
         "name": "Shindong",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Shindong 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Shindong 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "SH"
       },
       {
         "slug": "eunhyuk",
         "name": "Eunhyuk",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Eunhyuk 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Eunhyuk 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "EU"
       },
       {
         "slug": "donghae",
         "name": "Donghae",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Donghae 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Donghae 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "DO"
       },
       {
         "slug": "siwon",
         "name": "Siwon",
         "role": "主舞台焦点",
-        "profile": "Siwon 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Siwon 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SI"
       },
       {
         "slug": "ryeowook",
         "name": "Ryeowook",
         "role": "高辨识 vocal tone",
-        "profile": "Ryeowook 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Ryeowook 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "RY"
       },
       {
         "slug": "kyuhyun",
         "name": "Kyuhyun",
         "role": "现场气氛担当",
-        "profile": "Kyuhyun 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Kyuhyun 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "KY"
       }
     ],
@@ -3099,7 +3099,7 @@
     "nameKo": "태민",
     "fandom": "TAEMate",
     "tagline": "Solo / Arena 现场情报",
-    "intro": "看 Taemin 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和抢票优先级、舞台距离、灯光层次和个人 focus。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 Taemin 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和票档优先级、舞台距离、灯光层次和个人 focus。这里会把这些重点和官方入口一起整理好。",
     "accent": "#6f5b77",
     "officialUrl": "https://www.smtown.com/",
     "agency": "Big Planet Made",
@@ -3118,7 +3118,7 @@
         "slug": "taemin",
         "name": "Taemin",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Taemin 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Taemin 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "TA"
       }
     ]
@@ -3129,7 +3129,7 @@
     "nameKo": "태연",
     "fandom": "SONE",
     "tagline": "Solo / Arena 现场情报",
-    "intro": "如果 Taeyeon 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级、舞台距离、灯光层次和个人 focus 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 Taeyeon 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级、舞台距离、灯光层次和个人 focus 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#6d707c",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -3148,7 +3148,7 @@
         "slug": "taeyeon",
         "name": "Taeyeon",
         "role": "主舞台焦点",
-        "profile": "Taeyeon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Taeyeon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "TA"
       }
     ]
@@ -3159,7 +3159,7 @@
     "nameKo": "더보이즈",
     "fandom": "THE B",
     "tagline": "Arena / 亚洲场 现场情报",
-    "intro": "看 THE BOYZ 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和抢票优先级。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 THE BOYZ 的现场，最容易拉开体验差距的通常就是 Arena 区块视野、主舞台距离和票档优先级。这里会把这些重点和官方入口一起整理好。",
     "accent": "#6e5a4d",
     "officialUrl": "https://www.theboyz.kr/",
     "agency": "One Hundred",
@@ -3178,77 +3178,77 @@
         "slug": "sangyeon",
         "name": "Sangyeon",
         "role": "主舞台焦点",
-        "profile": "Sangyeon 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Sangyeon 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SA"
       },
       {
         "slug": "jacob",
         "name": "Jacob",
         "role": "现场气氛担当",
-        "profile": "Jacob 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Jacob 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JA"
       },
       {
         "slug": "younghoon",
         "name": "Younghoon",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Younghoon 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Younghoon 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "YO"
       },
       {
         "slug": "hyunjae",
         "name": "Hyunjae",
         "role": "fan-cam 热门成员",
-        "profile": "Hyunjae 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Hyunjae 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HY"
       },
       {
         "slug": "juyeon",
         "name": "Juyeon",
         "role": "舞台能量中轴",
-        "profile": "Juyeon 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Juyeon 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "JU"
       },
       {
         "slug": "kevin",
         "name": "Kevin",
         "role": "视觉与表演亮点",
-        "profile": "Kevin 在现场最常被问到的看点，通常会围绕 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "Kevin 在现场最常被问到的看点，通常都会落在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "KE"
       },
       {
         "slug": "new",
         "name": "New",
         "role": "主舞台焦点",
-        "profile": "New 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "New 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "NE"
       },
       {
         "slug": "q",
         "name": "Q",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Q 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Q 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "Q"
       },
       {
         "slug": "ju-haknyeon",
         "name": "Ju Haknyeon",
         "role": "高辨识 vocal tone",
-        "profile": "Ju Haknyeon 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Ju Haknyeon 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JH"
       },
       {
         "slug": "sunwoo",
         "name": "Sunwoo",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Sunwoo 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Sunwoo 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "SU"
       },
       {
         "slug": "eric",
         "name": "Eric",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Eric 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Eric 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "ER"
       }
     ]
@@ -3259,7 +3259,7 @@
     "nameKo": "투모로우바이투게더",
     "fandom": "MOA",
     "tagline": "Arena / World Tour 现场情报",
-    "intro": "想追 TOMORROW X TOGETHER 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 TOMORROW X TOGETHER 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#557ea1",
     "officialUrl": "https://weverse.io/txt",
     "agency": "BIGHIT MUSIC",
@@ -3278,35 +3278,35 @@
         "slug": "soobin",
         "name": "Soobin",
         "role": "主舞台焦点",
-        "profile": "Soobin 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Soobin 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SO"
       },
       {
         "slug": "yeonjun",
         "name": "Yeonjun",
         "role": "现场气氛担当",
-        "profile": "Yeonjun 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Yeonjun 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "YE"
       },
       {
         "slug": "beomgyu",
         "name": "Beomgyu",
         "role": "高辨识 vocal tone",
-        "profile": "Beomgyu 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Beomgyu 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "BE"
       },
       {
         "slug": "taehyun",
         "name": "Taehyun",
         "role": "fan-cam 热门成员",
-        "profile": "Taehyun 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Taehyun 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "TA"
       },
       {
         "slug": "huening-kai",
         "name": "Huening Kai",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Huening Kai 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Huening Kai 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "HK"
       }
     ]
@@ -3317,7 +3317,7 @@
     "nameKo": "트레저",
     "fandom": "TREASURE MAKER",
     "tagline": "亚洲场 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，TREASURE 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，TREASURE 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#5876a0",
     "officialUrl": "https://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=65",
     "agency": "YG Entertainment",
@@ -3336,70 +3336,70 @@
         "slug": "choi-hyunsuk",
         "name": "Choi Hyunsuk",
         "role": "主舞台焦点",
-        "profile": "Choi Hyunsuk 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Choi Hyunsuk 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "CH"
       },
       {
         "slug": "jihoon",
         "name": "Jihoon",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Jihoon 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Jihoon 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "JI"
       },
       {
         "slug": "yoshi",
         "name": "Yoshi",
         "role": "高辨识 vocal tone",
-        "profile": "Yoshi 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Yoshi 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "YO"
       },
       {
         "slug": "junkyu",
         "name": "Junkyu",
         "role": "fan-cam 热门成员",
-        "profile": "Junkyu 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Junkyu 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "JU"
       },
       {
         "slug": "jaehyuk",
         "name": "Jaehyuk",
         "role": "舞台能量中轴",
-        "profile": "Jaehyuk 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Jaehyuk 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "JA"
       },
       {
         "slug": "asahi",
         "name": "Asahi",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Asahi 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Asahi 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "AS"
       },
       {
         "slug": "doyoung",
         "name": "Doyoung",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Doyoung 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Doyoung 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "DO"
       },
       {
         "slug": "haruto",
         "name": "Haruto",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Haruto 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Haruto 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "HA"
       },
       {
         "slug": "jeongwoo",
         "name": "Jeongwoo",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Jeongwoo 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Jeongwoo 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JE"
       },
       {
         "slug": "junghwan",
         "name": "Junghwan",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Junghwan 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Junghwan 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "JU"
       }
     ]
@@ -3420,90 +3420,90 @@
       "亚洲场"
     ],
     "tagline": "粉圈热度 / Showcase 现场情报",
-    "intro": "从抢票优先级到场馆动线，tripleS 这一页会重点盯住 官方入口、热门场馆和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，tripleS 这一页会重点盯住 官方入口、场馆重点和最值得先看的观演细节。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "seoyeon",
         "name": "Seoyeon",
         "role": "主舞台焦点",
-        "profile": "Seoyeon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Seoyeon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "SE"
       },
       {
         "slug": "jiwoo",
         "name": "Jiwoo",
         "role": "高辨识 vocal tone",
-        "profile": "Jiwoo 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Jiwoo 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "JI"
       },
       {
         "slug": "chaeyeon",
         "name": "Chaeyeon",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Chaeyeon 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Chaeyeon 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "CH"
       },
       {
         "slug": "yubin",
         "name": "Yubin",
         "role": "fan-cam 热门成员",
-        "profile": "Yubin 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Yubin 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "YU"
       },
       {
         "slug": "soomin",
         "name": "Soomin",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Soomin 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Soomin 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "SO"
       },
       {
         "slug": "nakyoung",
         "name": "Nakyoung",
         "role": "舞台能量中轴",
-        "profile": "Nakyoung 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Nakyoung 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "NA"
       },
       {
         "slug": "kotone",
         "name": "Kotone",
         "role": "主舞台焦点",
-        "profile": "Kotone 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Kotone 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "KO"
       },
       {
         "slug": "nien",
         "name": "Nien",
         "role": "高辨识 vocal tone",
-        "profile": "Nien 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Nien 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "NI"
       },
       {
         "slug": "joobin",
         "name": "Joobin",
         "role": "现场气氛担当",
-        "profile": "Joobin 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Joobin 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "JO"
       },
       {
         "slug": "kaede",
         "name": "Kaede",
         "role": "fan-cam 热门成员",
-        "profile": "Kaede 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Kaede 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "KA"
       },
       {
         "slug": "dahyun",
         "name": "Dahyun",
         "role": "表演线亮点",
-        "profile": "如果你是冲着 Dahyun 的舞台存在感去，这一位通常最值得先看 编排细节和动作力度更值得用正面或微斜角视线去看。 ",
+        "profile": "如果你是冲着 Dahyun 的舞台存在感去，这一位通常最值得先看 正面或微斜角最能看到动作力度、线条和编排细节。",
         "initials": "DA"
       },
       {
         "slug": "lynn",
         "name": "Lynn",
         "role": "舞台能量中轴",
-        "profile": "Lynn 的现场魅力通常会在 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。 这几个位置被放大得最明显。",
+        "profile": "Lynn 的现场魅力，通常会在 正面中区最能看清编舞队形、走位变化和整体张力 这些位置被放大得最明显。",
         "initials": "LY"
       }
     ],
@@ -3517,7 +3517,7 @@
     "nameKo": "트와이스",
     "fandom": "ONCE",
     "tagline": "体育场 / Arena 现场情报",
-    "intro": "想追 TWICE 的现场，先把 Arena 区块视野、主舞台距离和抢票优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
+    "intro": "想追 TWICE 的现场，先把 Arena 区块视野、主舞台距离和票档优先级 看完，再决定哪一站更值得冲、哪个票档更适合下手，会稳很多。",
     "accent": "#a46a68",
     "officialUrl": "https://twice.jype.com/",
     "agency": "JYP Entertainment",
@@ -3536,63 +3536,63 @@
         "slug": "nayeon",
         "name": "Nayeon",
         "role": "主舞台焦点",
-        "profile": "Nayeon 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Nayeon 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "NA"
       },
       {
         "slug": "jeongyeon",
         "name": "Jeongyeon",
         "role": "现场气氛担当",
-        "profile": "Jeongyeon 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Jeongyeon 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "JE"
       },
       {
         "slug": "momo",
         "name": "Momo",
         "role": "高辨识 vocal tone",
-        "profile": "Momo 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Momo 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "MO"
       },
       {
         "slug": "sana",
         "name": "Sana",
         "role": "fan-cam 热门成员",
-        "profile": "Sana 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Sana 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "SA"
       },
       {
         "slug": "jihyo",
         "name": "Jihyo",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Jihyo 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Jihyo 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JI"
       },
       {
         "slug": "mina",
         "name": "Mina",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Mina 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Mina 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "MI"
       },
       {
         "slug": "dahyun",
         "name": "Dahyun",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Dahyun 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Dahyun 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "DA"
       },
       {
         "slug": "chaeyoung",
         "name": "Chaeyoung",
         "role": "现场气氛担当",
-        "profile": "Chaeyoung 在现场最常被问到的看点，通常会围绕 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "Chaeyoung 在现场最常被问到的看点，通常都会落在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "CH"
       },
       {
         "slug": "tzuyu",
         "name": "Tzuyu",
         "role": "高辨识 vocal tone",
-        "profile": "Tzuyu 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Tzuyu 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "TZ"
       }
     ],
@@ -3610,7 +3610,7 @@
     "nameKo": "투어스",
     "fandom": "42",
     "tagline": "新团观察 / Fancon 现场情报",
-    "intro": "看 TWS 的现场，最容易拉开体验差距的通常就是 官方入口、热门场馆和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
+    "intro": "看 TWS 的现场，最容易拉开体验差距的通常就是 官方入口、场馆重点和最值得先看的观演细节。这里会把这些重点和官方入口一起整理好。",
     "accent": "#7f8b64",
     "officialUrl": "https://weverse.io/tws",
     "agency": "PLEDIS Entertainment",
@@ -3629,42 +3629,42 @@
         "slug": "shinyu",
         "name": "Shinyu",
         "role": "主舞台焦点",
-        "profile": "Shinyu 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "Shinyu 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "SH"
       },
       {
         "slug": "dohoon",
         "name": "Dohoon",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Dohoon 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Dohoon 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "DO"
       },
       {
         "slug": "youngjae",
         "name": "Youngjae",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Youngjae 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Youngjae 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "YO"
       },
       {
         "slug": "hanjin",
         "name": "Hanjin",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Hanjin 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Hanjin 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "HA"
       },
       {
         "slug": "jihoon",
         "name": "Jihoon",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Jihoon 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Jihoon 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JI"
       },
       {
         "slug": "kyungmin",
         "name": "Kyungmin",
         "role": "视觉与表演亮点",
-        "profile": "Kyungmin 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Kyungmin 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "KY"
       }
     ]
@@ -3694,7 +3694,7 @@
         "slug": "v",
         "name": "V",
         "role": "主舞台焦点",
-        "profile": "V 的现场魅力通常会在 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。 这几个位置被放大得最明显。",
+        "profile": "V 的现场魅力，通常会在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus 这些位置被放大得最明显。",
         "initials": "V"
       }
     ]
@@ -3705,7 +3705,7 @@
     "nameKo": "웨이션브이",
     "fandom": "WayZenNi",
     "tagline": "亚洲场 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，WayV 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，WayV 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#5c7d74",
     "officialUrl": "https://www.smtown.com/",
     "agency": "SM Entertainment",
@@ -3724,42 +3724,42 @@
         "slug": "kun",
         "name": "Kun",
         "role": "主舞台焦点",
-        "profile": "Kun 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Kun 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "KU"
       },
       {
         "slug": "ten",
         "name": "Ten",
         "role": "现场气氛担当",
-        "profile": "Ten 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Ten 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "TE"
       },
       {
         "slug": "xiaojun",
         "name": "Xiaojun",
         "role": "高辨识 vocal tone",
-        "profile": "Xiaojun 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Xiaojun 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "XI"
       },
       {
         "slug": "hendery",
         "name": "Hendery",
         "role": "fan-cam 热门成员",
-        "profile": "Hendery 在现场最常被问到的看点，通常会围绕 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "Hendery 在现场最常被问到的看点，通常都会落在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "HE"
       },
       {
         "slug": "yangyang",
         "name": "Yangyang",
         "role": "舞台能量中轴",
-        "profile": "Yangyang 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Yangyang 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "YA"
       },
       {
         "slug": "winwin",
         "name": "Winwin",
         "role": "视觉与表演亮点",
-        "profile": "如果你是冲着 Winwin 的舞台存在感去，这一位通常最值得先看 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
+        "profile": "如果你是冲着 Winwin 的舞台存在感去，这一位通常最值得先看 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开。",
         "initials": "WI"
       }
     ]
@@ -3780,13 +3780,13 @@
       "Arena"
     ],
     "tagline": "Solo / 音乐节 现场情报",
-    "intro": "从抢票优先级到场馆动线，WOODZ 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级、舞台距离、灯光层次和个人 focus。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，WOODZ 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级、舞台距离、灯光层次和个人 focus。想少走弯路，先从这里看起基本不会错。",
     "members": [
       {
         "slug": "woodz",
         "name": "WOODZ",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 WOODZ 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 WOODZ 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "WO"
       }
     ],
@@ -3800,7 +3800,7 @@
     "nameKo": "엑스지",
     "fandom": "ALPHAZ",
     "tagline": "全球线路 / Arena 现场情报",
-    "intro": "从抢票优先级到场馆动线，XG 这一页会重点盯住 Arena 区块视野、主舞台距离和抢票优先级。想少走弯路，先从这里看起基本不会错。",
+    "intro": "从抢票优先级到场馆动线，XG 这一页会重点盯住 Arena 区块视野、主舞台距离和票档优先级。想少走弯路，先从这里看起基本不会错。",
     "accent": "#645d90",
     "officialUrl": "https://xgalx.com/xg/",
     "agency": "XGALX",
@@ -3819,49 +3819,49 @@
         "slug": "jurin",
         "name": "Jurin",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Jurin 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Jurin 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "JU"
       },
       {
         "slug": "chisa",
         "name": "Chisa",
         "role": "现场气氛担当",
-        "profile": "Chisa 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Chisa 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "CH"
       },
       {
         "slug": "hinata",
         "name": "Hinata",
         "role": "高辨识 vocal tone",
-        "profile": "Hinata 在现场最常被问到的看点，通常会围绕 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "Hinata 在现场最常被问到的看点，通常都会落在 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "HI"
       },
       {
         "slug": "harvey",
         "name": "Harvey",
         "role": "fan-cam 热门成员",
-        "profile": "Harvey 的现场魅力通常会在 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。 这几个位置被放大得最明显。",
+        "profile": "Harvey 的现场魅力，通常会在 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置 这些位置被放大得最明显。",
         "initials": "HA"
       },
       {
         "slug": "juria",
         "name": "Juria",
         "role": "舞台能量中轴",
-        "profile": "Juria 在现场最常被问到的看点，通常会围绕 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "Juria 在现场最常被问到的看点，通常都会落在 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "JU"
       },
       {
         "slug": "maya",
         "name": "Maya",
         "role": "视觉与表演亮点",
-        "profile": "Maya 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Maya 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "MA"
       },
       {
         "slug": "cocona",
         "name": "Cocona",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Cocona 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Cocona 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "CO"
       }
     ],
@@ -3879,7 +3879,7 @@
     "nameKo": "제로베이스원",
     "fandom": "ZEROSE",
     "tagline": "Arena / Fancon 现场情报",
-    "intro": "如果 ZEROBASEONE 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和抢票优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
+    "intro": "如果 ZEROBASEONE 已经进了你的下一场候选，这一页会把 Arena 区块视野、主舞台距离和票档优先级 收成一条顺手可看的线，省掉来回翻公告和返图的时间。",
     "accent": "#6c7fa8",
     "officialUrl": "https://zb1-official.com/",
     "agency": "WAKEONE",
@@ -3898,63 +3898,63 @@
         "slug": "sung-hanbin",
         "name": "Sung Hanbin",
         "role": "主舞台焦点",
-        "profile": "Sung Hanbin 在现场最常被问到的看点，通常会围绕 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "Sung Hanbin 在现场最常被问到的看点，通常都会落在 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "SH"
       },
       {
         "slug": "kim-jiwoong",
         "name": "Kim Jiwoong",
         "role": "现场气氛担当",
-        "profile": "Kim Jiwoong 的现场魅力通常会在 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。 这几个位置被放大得最明显。",
+        "profile": "Kim Jiwoong 的现场魅力，通常会在 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈 这些位置被放大得最明显。",
         "initials": "KJ"
       },
       {
         "slug": "zhang-hao",
         "name": "Zhang Hao",
         "role": "高辨识 vocal tone",
-        "profile": "如果你是冲着 Zhang Hao 的舞台存在感去，这一位通常最值得先看 坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
+        "profile": "如果你是冲着 Zhang Hao 的舞台存在感去，这一位通常最值得先看 正面中段和声场更稳的位置，能把现场层次听得更完整。",
         "initials": "ZH"
       },
       {
         "slug": "seok-matthew",
         "name": "Seok Matthew",
         "role": "fan-cam 热门成员",
-        "profile": "如果你是冲着 Seok Matthew 的舞台存在感去，这一位通常最值得先看 如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
+        "profile": "如果你是冲着 Seok Matthew 的舞台存在感去，这一位通常最值得先看 延伸台停留点、返图高频区和最容易拿到个人 focus 的位置。",
         "initials": "SM"
       },
       {
         "slug": "kim-taerae",
         "name": "Kim Taerae",
         "role": "舞台能量中轴",
-        "profile": "如果你是冲着 Kim Taerae 的舞台存在感去，这一位通常最值得先看 想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
+        "profile": "如果你是冲着 Kim Taerae 的舞台存在感去，这一位通常最值得先看 正面中区最能看清编舞队形、走位变化和整体张力。",
         "initials": "KT"
       },
       {
         "slug": "ricky",
         "name": "Ricky",
         "role": "视觉与表演亮点",
-        "profile": "Ricky 的现场魅力通常会在 灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。  这几个位置被放大得最明显。",
+        "profile": "Ricky 的现场魅力，通常会在 灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开 这些位置被放大得最明显。",
         "initials": "RI"
       },
       {
         "slug": "kim-gyuvin",
         "name": "Kim Gyuvin",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 Kim Gyuvin 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 Kim Gyuvin 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "KG"
       },
       {
         "slug": "park-gunwook",
         "name": "Park Gunwook",
         "role": "现场气氛担当",
-        "profile": "如果你是冲着 Park Gunwook 的舞台存在感去，这一位通常最值得先看 安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
+        "profile": "如果你是冲着 Park Gunwook 的舞台存在感去，这一位通常最值得先看 安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈。",
         "initials": "PG"
       },
       {
         "slug": "han-yujin",
         "name": "Han Yujin",
         "role": "高辨识 vocal tone",
-        "profile": "Han Yujin 的现场魅力通常会在 坐席中段和正面区域更容易兼顾声场与整体舞台层次。 这几个位置被放大得最明显。",
+        "profile": "Han Yujin 的现场魅力，通常会在 正面中段和声场更稳的位置，能把现场层次听得更完整 这些位置被放大得最明显。",
         "initials": "HY"
       }
     ]
@@ -3984,7 +3984,7 @@
         "slug": "zico",
         "name": "ZICO",
         "role": "主舞台焦点",
-        "profile": "如果你是冲着 ZICO 的舞台存在感去，这一位通常最值得先看 主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
+        "profile": "如果你是冲着 ZICO 的舞台存在感去，这一位通常最值得先看 主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus。",
         "initials": "ZI"
       }
     ]

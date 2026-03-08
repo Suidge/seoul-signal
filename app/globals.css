@@ -452,6 +452,19 @@ img {
   background: rgba(24, 20, 18, 0.06);
 }
 
+.artist-visual-frame::after,
+.event-visual-frame::after,
+.artist-hero-visual::after,
+.detail-hero-image-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(20, 18, 16, 0.02), rgba(20, 18, 16, 0.12)),
+    linear-gradient(0deg, rgba(20, 18, 16, 0.14), rgba(20, 18, 16, 0));
+  pointer-events: none;
+}
+
 .artist-visual-frame,
 .event-visual-frame {
   margin: -22px -22px 16px;
@@ -466,7 +479,7 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 16%;
+  object-position: center 12%;
   background: rgba(214, 204, 193, 0.72);
 }
 

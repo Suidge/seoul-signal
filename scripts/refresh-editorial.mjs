@@ -59,13 +59,13 @@ const tagMap = {
 };
 
 const memberRoleMap = {
-  "主舞台焦点": "主舞台正面和延伸台前段通常最能看到完整表情与动作线条。",
-  "现场气氛担当": "安可和 ment 环节往往最容易收获高互动，适合提前看清屏幕和主镜头方向。",
-  "高辨识 vocal tone": "坐席中段和正面区域更容易兼顾声场与整体舞台层次。",
-  "fan-cam 热门成员": "如果是为了看个人 focus，优先关注延伸台停留点和返图高频区块。",
-  "舞台能量中轴": "想兼顾编舞队形和走位变化，正面中区通常比极侧区更稳。",
-  "视觉与表演亮点": "灯光、服装和特写最出彩的时刻，往往集中在主舞台和第一次延伸台展开。 ",
-  "表演线亮点": "编排细节和动作力度更值得用正面或微斜角视线去看。 "
+  "主舞台焦点": "主舞台正面与延伸台前段的完整表情、动作线条和大屏 focus",
+  "现场气氛担当": "安可和 ment 段的高互动，以及靠近主镜头一侧的即时反馈",
+  "高辨识 vocal tone": "正面中段和声场更稳的位置，能把现场层次听得更完整",
+  "fan-cam 热门成员": "延伸台停留点、返图高频区和最容易拿到个人 focus 的位置",
+  "舞台能量中轴": "正面中区最能看清编舞队形、走位变化和整体张力",
+  "视觉与表演亮点": "灯光、造型和特写最出彩的主舞台区，以及第一次延伸台展开",
+  "表演线亮点": "正面或微斜角最能看到动作力度、线条和编排细节"
 };
 
 function uniq(values) {
@@ -93,7 +93,7 @@ function artistFocus(artist) {
   const notes = [];
 
   if (genres.includes("Stadium")) notes.push("体育场看台层级、延伸台覆盖和开票节奏");
-  if (genres.includes("Arena")) notes.push("Arena 区块视野、主舞台距离和抢票优先级");
+  if (genres.includes("Arena")) notes.push("Arena 区块视野、主舞台距离和票档优先级");
   if (genres.includes("Dome")) notes.push("Dome 场的大屏体验、声场和正面区块");
   if (genres.includes("Japan")) notes.push("日本抽选、电子票和取票规则");
   if (genres.includes("North America")) notes.push("presale、信用卡入口和停车预算");
@@ -107,7 +107,7 @@ function artistFocus(artist) {
   if (genres.includes("Visual")) notes.push("舞美、屏幕调度和正面视线");
   if (genres.includes("Performance")) notes.push("编舞展开、延伸台和正面中区");
   if (genres.includes("Festival")) notes.push("音乐节 slot、站位和入退场节奏");
-  if (!notes.length) notes.push("官方入口、热门场馆和最值得先看的观演细节");
+  if (!notes.length) notes.push("官方入口、场馆重点和最值得先看的观演细节");
 
   return uniq(notes).slice(0, 3);
 }
@@ -132,11 +132,11 @@ function refreshMemberProfiles(artist) {
   return (artist.members ?? []).map((member) => ({
     ...member,
     profile: [
-      `${member.name} 在现场最常被问到的看点，通常会围绕 ${memberRoleMap[member.role] ?? "返图区块、安可互动和最值得提前卡位的位置。"}`
+      `${member.name} 在现场最常被问到的看点，通常都会落在 ${memberRoleMap[member.role] ?? "返图区块、安可互动和最值得提前卡位的位置"}。`
       ,
-      `如果你是冲着 ${member.name} 的舞台存在感去，这一位通常最值得先看 ${memberRoleMap[member.role] ?? "延伸台停留点、安可互动和镜头高频区。"}`
+      `如果你是冲着 ${member.name} 的舞台存在感去，这一位通常最值得先看 ${memberRoleMap[member.role] ?? "延伸台停留点、安可互动和镜头高频区"}。`
       ,
-      `${member.name} 的现场魅力通常会在 ${memberRoleMap[member.role] ?? "主舞台正面、互动段和高频返图区块。"} 这几个位置被放大得最明显。`
+      `${member.name} 的现场魅力，通常会在 ${memberRoleMap[member.role] ?? "主舞台正面、互动段和高频返图区块"} 这些位置被放大得最明显。`
     ][hashValue(`${artist.slug}-${member.slug}`) % 3]
   }));
 }
