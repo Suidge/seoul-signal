@@ -4,6 +4,7 @@ import path from "node:path";
 const root = process.cwd();
 const appDir = path.join(root, ".next/server/app");
 const staticDir = path.join(root, ".next/static");
+const publicDir = path.join(root, "public");
 const outDir = path.join(root, "out");
 
 async function exists(target) {
@@ -71,6 +72,9 @@ async function main() {
   await fs.mkdir(outDir, { recursive: true });
 
   await fs.cp(staticDir, path.join(outDir, "_next/static"), { recursive: true });
+  if (await exists(publicDir)) {
+    await fs.cp(publicDir, outDir, { recursive: true });
+  }
 
   const htmlFiles = (await walk(appDir))
     .filter((file) => file.endsWith(".html"))
