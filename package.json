@@ -12,7 +12,8 @@
     "refresh:pages": "bash scripts/run-pages-refresh.sh",
     "prisma:generate": "prisma generate",
     "prisma:push": "prisma db push",
-    "prisma:seed": "node prisma/seed.mjs"
+    "prisma:seed": "node prisma/seed.mjs",
+    "sync:sources": "node scripts/sync-source-health.mjs"
   },
   "dependencies": {
     "@prisma/client": "6.19.2",

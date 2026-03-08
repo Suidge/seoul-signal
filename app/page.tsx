@@ -8,6 +8,7 @@ import { getArtists, getEvents } from "@/lib/events";
 import {
   type EventItem,
   communityPosts,
+  formatShortDate,
   guides,
   launchHighlights,
   siteMeta,
@@ -53,6 +54,23 @@ export default async function HomePage() {
             </div>
           </div>
           <p className="content-summary">{siteMeta.coverageNote}</p>
+          <div className="hero-stats compact-stats">
+            <div>
+              <strong>{siteMeta.counts.monitoredSources}</strong>
+              <span>监测来源</span>
+            </div>
+            <div>
+              <strong>{siteMeta.sourceHealth?.ok ?? 0}</strong>
+              <span>来源正常</span>
+            </div>
+            <div>
+              <strong>{siteMeta.sourceHealth?.failed ?? 0}</strong>
+              <span>需要复查</span>
+            </div>
+          </div>
+          {siteMeta.sourceHealth?.lastCheckedAt ? (
+            <p className="content-summary">最近一次来源检查：{formatShortDate(siteMeta.sourceHealth.lastCheckedAt)}</p>
+          ) : null}
           <div className="artist-cloud">
             {artists.slice(0, 8).map((artist) => (
               <span key={artist.slug}>{artist.name}</span>

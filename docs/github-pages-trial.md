@@ -22,8 +22,24 @@
 - `data/events.json`
 - `data/guides.json`
 - `data/community.json`
+- `data/source-registry.json`
 
-### 2. 自动校验
+### 2. 探测来源状态
+
+运行：
+
+```bash
+pnpm sync:sources
+```
+
+这个脚本会：
+
+- 对已登记的官方艺人页、票务页、场馆页做低频探测
+- 记录 `status / etag / last-modified / finalUrl / checkedAt`
+- 输出到 `data/source-status.json`
+- 将 `401/403` 这类受限站点标记为 `restricted`，而不是直接判定来源失效
+
+### 3. 自动校验
 
 运行：
 
@@ -35,10 +51,11 @@ pnpm prepare:pages
 
 - 检查 slug 是否重复
 - 检查 URL 是否是合法的 `http/https`
+- 检查活动来源是否已经登记进来源表
 - 对艺人、活动、指南做排序
-- 更新 `data/site-meta.json` 的生成时间和统计信息
+- 更新 `data/site-meta.json` 的生成时间、统计信息和来源健康摘要
 
-### 3. 自动推送发布
+### 4. 自动推送发布
 
 运行：
 
@@ -50,7 +67,8 @@ pnpm refresh:pages
 
 - `git pull --ff-only origin main`
 - 安装依赖
-- 执行 `prepare-pages`
+- 执行 `sync:sources`
+- 执行 `prepare:pages`
 - 本地 `pnpm build`
 - 如果有内容变化则自动提交并推送到 `main`
 
@@ -70,6 +88,7 @@ pnpm refresh:pages
 
 ## 适合自动做的事
 
+- 来源探测
 - 数据格式校验
 - 静态文件排序和生成时间更新
 - 自动构建

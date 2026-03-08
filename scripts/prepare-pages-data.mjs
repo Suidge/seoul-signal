@@ -33,20 +33,34 @@ function ensureHttpUrls(events) {
   }
 }
 
+function ensureSourceCoverage(events, registry) {
+  const urls = new Set(registry.map((item) => item.url));
+
+  for (const event of events) {
+    if (event.sourceUrl && !urls.has(event.sourceUrl)) {
+      throw new Error(`Event source is not registered: ${event.slug} -> ${event.sourceUrl}`);
+    }
+  }
+}
+
 async function main() {
-  const [artists, events, guides, community, meta] = await Promise.all([
+  const [artists, events, guides, community, meta, registry, status] = await Promise.all([
     readJson("artists.json"),
     readJson("events.json"),
     readJson("guides.json"),
     readJson("community.json"),
-    readJson("site-meta.json")
+    readJson("site-meta.json"),
+    readJson("source-registry.json"),
+    readJson("source-status.json")
   ]);
 
   ensureUnique(artists, "slug", "artist");
   ensureUnique(events, "slug", "event");
   ensureUnique(guides, "slug", "guide");
   ensureUnique(community, "slug", "community post");
+  ensureUnique(registry, "id", "source");
   ensureHttpUrls(events);
+  ensureSourceCoverage(events, registry);
 
   events.sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
   guides.sort((a, b) => a.title.localeCompare(b.title, "zh-CN"));
@@ -59,7 +73,16 @@ async function main() {
       artists: artists.length,
       events: events.length,
       guides: guides.length,
-      communityPosts: community.length
+      communityPosts: community.length,
+      monitoredSources: registry.length
+    },
+    sourceHealth: {
+      ok: status.filter((item) => item.ok).length,
+      failed: status.filter((item) => !item.ok).length,
+      lastCheckedAt: status.reduce((latest, item) => {
+        if (!item.checkedAt) return latest;
+        return !latest || item.checkedAt > latest ? item.checkedAt : latest;
+      }, null)
     }
   };
 
@@ -75,7 +98,8 @@ async function main() {
       {
         task: "prepare-pages-data",
         generatedAt: nextMeta.generatedAt,
-        counts: nextMeta.counts
+        counts: nextMeta.counts,
+        sourceHealth: nextMeta.sourceHealth
       },
       null,
       2

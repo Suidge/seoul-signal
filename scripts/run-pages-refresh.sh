@@ -10,7 +10,8 @@ cd "$ROOT_DIR"
 git checkout "$BRANCH"
 git pull --ff-only origin "$BRANCH"
 pnpm install --frozen-lockfile
-node scripts/prepare-pages-data.mjs
+pnpm sync:sources
+pnpm prepare:pages
 pnpm build
 
 if git diff --quiet -- data app lib components README.md docs .github/workflows; then
@@ -18,6 +19,6 @@ if git diff --quiet -- data app lib components README.md docs .github/workflows;
   exit 0
 fi
 
-git add data app lib components README.md docs .github/workflows next.config.ts package.json
+git add data app lib components README.md docs .github/workflows next.config.ts package.json scripts
 git commit -m "$COMMIT_MESSAGE"
 git push origin "$BRANCH"

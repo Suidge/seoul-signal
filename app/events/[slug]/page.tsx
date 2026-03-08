@@ -4,7 +4,12 @@ import { FavoriteToggle } from "@/components/favorite-toggle";
 import { Header } from "@/components/header";
 import { ShareButton } from "@/components/share-button";
 import { formatEventDateLabel, getEventBySlug, getEvents } from "@/lib/events";
-import { type EventItem, getStatusLabel } from "@/lib/site-data";
+import {
+  type EventItem,
+  findSourceStatus,
+  formatShortDate,
+  getStatusLabel
+} from "@/lib/site-data";
 
 type Props = {
   params: Promise<{
@@ -24,6 +29,8 @@ export default async function EventDetailPage({ params }: Props) {
   if (!event) {
     notFound();
   }
+
+  const sourceStatus = findSourceStatus(event.sourceUrl);
 
   return (
     <main className="page-shell">
@@ -120,6 +127,12 @@ export default async function EventDetailPage({ params }: Props) {
           <h2>来源与可信度</h2>
           <p>试运行阶段优先保留官方或主办方入口，降低中文用户在跨平台找信息时的误差和跳转成本。</p>
           {event.sourceConfidence ? <p className="detail-note">来源层级: {event.sourceConfidence}</p> : null}
+          {sourceStatus ? (
+            <>
+              <p className="detail-note">最近检查: {sourceStatus.checkedAt ? formatShortDate(sourceStatus.checkedAt) : "未检查"}</p>
+              <p className="detail-note">来源状态: {sourceStatus.ok ? `正常 (${sourceStatus.status})` : `需复查${sourceStatus.status ? ` (${sourceStatus.status})` : ""}`}</p>
+            </>
+          ) : null}
           {event.sourceUrl ? (
             <a className="text-link" href={event.sourceUrl} rel="noreferrer" target="_blank">
               查看来源页面

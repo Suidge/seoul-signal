@@ -13,7 +13,8 @@
 
 - 巡演日历、活动详情、艺人页、指南页、社区精选页
 - 浏览器本地收藏
-- 结构化静态数据：`artists / events / guides / community`
+- 结构化静态数据：`artists / events / guides / community / sources`
+- 官方来源健康检查与最近更新时间展示
 - GitHub Pages 自动发布
 - 本地主机可每日运行的数据校验与发布脚本
 
@@ -30,8 +31,12 @@
 - [data/events.json](/Users/neoshi/kpop-events/data/events.json)
 - [data/guides.json](/Users/neoshi/kpop-events/data/guides.json)
 - [data/community.json](/Users/neoshi/kpop-events/data/community.json)
+- [data/source-registry.json](/Users/neoshi/kpop-events/data/source-registry.json)
+- [data/source-status.json](/Users/neoshi/kpop-events/data/source-status.json)
 - [lib/site-data.ts](/Users/neoshi/kpop-events/lib/site-data.ts)
+- [scripts/sync-source-health.mjs](/Users/neoshi/kpop-events/scripts/sync-source-health.mjs)
 - [scripts/prepare-pages-data.mjs](/Users/neoshi/kpop-events/scripts/prepare-pages-data.mjs)
+- [scripts/export-pages.mjs](/Users/neoshi/kpop-events/scripts/export-pages.mjs)
 - [scripts/run-pages-refresh.sh](/Users/neoshi/kpop-events/scripts/run-pages-refresh.sh)
 - [docs/github-pages-trial.md](/Users/neoshi/kpop-events/docs/github-pages-trial.md)
 
@@ -45,6 +50,7 @@ pnpm dev
 ## 发布前校验
 
 ```bash
+pnpm sync:sources
 pnpm prepare:pages
 pnpm typecheck
 pnpm build
@@ -74,10 +80,11 @@ pnpm refresh:pages
 该脚本会：
 
 1. 拉取主分支
-2. 校验并重写结构化数据
-3. 本地构建站点
-4. 如果有内容变化则自动提交并推送
-5. 触发 GitHub Pages 自动发布
+2. 检查官方来源是否可达或受限
+3. 校验并重写结构化数据
+4. 本地构建站点
+5. 如果有内容变化则自动提交并推送
+6. 触发 GitHub Pages 自动发布
 
 详细说明见：
 
