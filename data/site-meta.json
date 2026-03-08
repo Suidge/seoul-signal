@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T05:25:35.316Z",
+  "generatedAt": "2026-03-08T05:33:03.898Z",
   "siteMode": "github-pages-trial",
   "coverageNote": "Static public site with locally maintained event and fandom content.",
   "counts": {
@@ -13,6 +13,6 @@
   "sourceHealth": {
     "ok": 33,
     "failed": 14,
-    "lastCheckedAt": "2026-03-08T05:25:30.739Z"
+    "lastCheckedAt": "2026-03-08T05:33:00.191Z"
   }
 }

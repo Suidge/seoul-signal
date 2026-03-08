@@ -94,7 +94,7 @@ export function CalendarBrowser({ artists, events, plans }: Props) {
   };
 
   const grouped = filteredEvents.reduce<Record<string, EventItem[]>>((acc, item) => {
-    const label = formatMonthLabel(item.startDate);
+    const label = formatMonthLabel(item.startDate, item.timezone);
     acc[label] ??= [];
     acc[label].push(item);
     return acc;

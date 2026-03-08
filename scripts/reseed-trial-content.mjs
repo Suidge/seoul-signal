@@ -783,6 +783,26 @@ const artistSeeds = [
 
 const artistBySlug = new Map(artistSeeds.map((artist) => [artist.slug, artist]));
 
+
+const timezoneByCountry = {
+  "Japan": "Asia/Tokyo",
+  "South Korea": "Asia/Seoul",
+  "United States": "America/Los_Angeles",
+  "Philippines": "Asia/Manila",
+  "Hong Kong": "Asia/Hong_Kong",
+  "Taiwan": "Asia/Taipei",
+  "Singapore": "Asia/Singapore",
+  "Malaysia": "Asia/Kuala_Lumpur",
+  "France": "Europe/Paris",
+  "United Kingdom": "Europe/London",
+  "Macau": "Asia/Macau",
+  "Indonesia": "Asia/Jakarta",
+  "Thailand": "Asia/Bangkok",
+  "Mexico": "America/Mexico_City",
+  "Australia": "Australia/Sydney"
+};
+
+
 function memberObject(artist, memberName, index) {
   return {
     slug: slugify(memberName),
@@ -868,7 +888,7 @@ const events = eventSeeds.map(([artistSlug, city, country, venue, startDate, sta
     country,
     venue,
     startDate,
-    timezone: undefined,
+    timezone: timezoneByCountry[country] ?? "Asia/Seoul",
     status,
     source: `${artist.name} official channel`,
     sourceUrl: artist.officialUrl,

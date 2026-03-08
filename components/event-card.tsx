@@ -33,7 +33,7 @@ export function EventCard({ event }: Props) {
         <Link href={`/events/${event.slug}`}>{event.city}, {event.country}</Link>
       </h3>
       <p className="event-meta">{event.venue}</p>
-      <p className="event-date">{formatDate(event.startDate)}</p>
+      <p className="event-date">{formatDate(event.startDate, event.timezone)}</p>
       <p className="event-source">{event.tourName ?? event.source}</p>
       <div className="tag-row">
         {event.tags.map((tag) => (

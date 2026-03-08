@@ -195,22 +195,24 @@ export function getStatusLabel(status: EventStatusValue) {
   }
 }
 
-export function formatDate(date: string) {
+export function formatDate(date: string, timezone?: string) {
   return new Intl.DateTimeFormat("zh-CN", {
     year: "numeric",
     month: "short",
     day: "numeric",
     hour: "2-digit",
-    minute: "2-digit"
+    minute: "2-digit",
+    timeZone: timezone
   }).format(new Date(date));
 }
 
-export function formatShortDate(date: string) {
+export function formatShortDate(date: string, timezone?: string) {
   return new Intl.DateTimeFormat("zh-CN", {
     month: "short",
     day: "numeric",
     hour: "2-digit",
-    minute: "2-digit"
+    minute: "2-digit",
+    timeZone: timezone
   }).format(new Date(date));
 }
 
@@ -230,10 +232,11 @@ export function uniqueCountries(items: EventItem[]) {
   return [...new Set(items.map((item) => item.country))].sort();
 }
 
-export function formatMonthLabel(date: string) {
+export function formatMonthLabel(date: string, timezone?: string) {
   return new Intl.DateTimeFormat("zh-CN", {
     year: "numeric",
-    month: "long"
+    month: "long",
+    timeZone: timezone
   }).format(new Date(date));
 }
 

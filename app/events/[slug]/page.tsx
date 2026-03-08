@@ -73,7 +73,7 @@ export default async function EventDetailPage({ params }: Props) {
           </div>
           <div className="detail-row">
             <span>时间</span>
-            <strong>{formatEventDateLabel(event.startDate)}</strong>
+            <strong>{formatEventDateLabel(event.startDate, event.timezone)}</strong>
           </div>
           <div className="detail-row">
             <span>场馆</span>
@@ -98,7 +98,7 @@ export default async function EventDetailPage({ params }: Props) {
           <h2>购票与观演提示</h2>
           <p>{event.purchaseHint ?? "暂未补充购票说明。"}</p>
           {event.priceNote ? <p className="detail-note">票务提示: {event.priceNote}</p> : null}
-          {event.ticketSaleDate ? <p className="detail-note">开票时间: {formatEventDateLabel(event.ticketSaleDate)}</p> : null}
+          {event.ticketSaleDate ? <p className="detail-note">开票时间: {formatEventDateLabel(event.ticketSaleDate, event.timezone)}</p> : null}
         </article>
         <article className="detail-block">
           <p className="eyebrow">Travel</p>

@@ -112,6 +112,6 @@ export async function getTourPlans(): Promise<TourPlanItem[]> {
   return [...tourPlans].sort((a, b) => a.artist.localeCompare(b.artist, "en"));
 }
 
-export function formatEventDateLabel(date: string) {
-  return formatDate(date);
+export function formatEventDateLabel(date: string, timezone?: string) {
+  return formatDate(date, timezone);
 }
