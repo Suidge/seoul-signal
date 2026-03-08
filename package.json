@@ -12,6 +12,8 @@
     "refresh:pages": "bash scripts/run-pages-refresh.sh",
     "sync:images": "node scripts/sync-approved-images.mjs",
     "sync:event-images": "node scripts/sync-official-event-images.mjs",
+    "sync:official-updates": "node scripts/sync-official-updates.mjs",
+    "sync:venue-guides": "node scripts/sync-venue-guides.mjs",
     "refresh:editorial": "node scripts/refresh-editorial.mjs",
     "redesign:visuals": "node scripts/redesign-generated-visuals.mjs",
     "prisma:generate": "prisma generate",

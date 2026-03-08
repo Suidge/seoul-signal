@@ -1,0 +1,32 @@
+[
+  {
+    "artistSlug": "day6",
+    "sourceType": "jype_latest_notice",
+    "url": "https://day6.jype.com/",
+    "provider": "DAY6 Official"
+  },
+  {
+    "artistSlug": "itzy",
+    "sourceType": "jype_latest_notice",
+    "url": "https://itzy.jype.com/",
+    "provider": "ITZY Official"
+  },
+  {
+    "artistSlug": "stray-kids",
+    "sourceType": "jype_latest_notice",
+    "url": "https://straykids.jype.com/Default",
+    "provider": "Stray Kids Official"
+  },
+  {
+    "artistSlug": "twice",
+    "sourceType": "jype_latest_notice",
+    "url": "https://twice.jype.com/",
+    "provider": "TWICE Official"
+  },
+  {
+    "artistSlug": "nmixx",
+    "sourceType": "jype_latest_notice",
+    "url": "https://nmixx.jype.com/",
+    "provider": "NMIXX Official"
+  }
+]

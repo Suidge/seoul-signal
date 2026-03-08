@@ -1,0 +1,52 @@
+[
+  {
+    "artistSlug": "day6",
+    "provider": "DAY6 Official",
+    "sourceUrl": "https://day6.jype.com/",
+    "checkedAt": "2026-03-08T08:20:28.854Z",
+    "title": "HAPPY BIRTHDAY SUNGJIN",
+    "publishedAt": "2026-01-15T17:01:26.276Z",
+    "imageUrl": null,
+    "relevant": false
+  },
+  {
+    "artistSlug": "itzy",
+    "provider": "ITZY Official",
+    "sourceUrl": "https://itzy.jype.com/",
+    "checkedAt": "2026-03-08T08:20:30.157Z",
+    "title": null,
+    "publishedAt": null,
+    "imageUrl": null,
+    "relevant": false
+  },
+  {
+    "artistSlug": "stray-kids",
+    "provider": "Stray Kids Official",
+    "sourceUrl": "https://straykids.jype.com/Default",
+    "checkedAt": "2026-03-08T08:20:30.752Z",
+    "title": "Stray Kids 6TH FANMEETING '𝗦𝗧𝗔𝗬 𝗶𝗻 𝗢𝘂𝗿 𝗟𝗶𝘁𝘁𝗹𝗲 𝗛𝗼𝘂𝘀𝗲' TEASER IMAGE 🏠",
+    "publishedAt": "2026-02-26T06:25:20.754Z",
+    "imageUrl": null,
+    "relevant": true
+  },
+  {
+    "artistSlug": "twice",
+    "provider": "TWICE Official",
+    "sourceUrl": "https://twice.jype.com/",
+    "checkedAt": "2026-03-08T08:20:31.789Z",
+    "title": "Happy Birthday JIHYO",
+    "publishedAt": "2026-01-29T05:41:59.479Z",
+    "imageUrl": null,
+    "relevant": false
+  },
+  {
+    "artistSlug": "nmixx",
+    "provider": "NMIXX Official",
+    "sourceUrl": "https://nmixx.jype.com/",
+    "checkedAt": "2026-03-08T08:20:32.830Z",
+    "title": null,
+    "publishedAt": null,
+    "imageUrl": null,
+    "relevant": false
+  }
+]

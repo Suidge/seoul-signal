@@ -2,6 +2,7 @@ import artistsData from "@/data/artists.json";
 import communityData from "@/data/community.json";
 import eventsData from "@/data/events.json";
 import guidesData from "@/data/guides.json";
+import officialUpdatesData from "@/data/official-updates.json";
 import siteMetaData from "@/data/site-meta.json";
 import sourceRegistryData from "@/data/source-registry.json";
 import sourceStatusData from "@/data/source-status.json";
@@ -112,6 +113,18 @@ export type TourPlanItem = {
   sourceUrl?: string;
 };
 
+export type OfficialUpdateItem = {
+  artistSlug: string;
+  provider: string;
+  sourceUrl: string;
+  checkedAt: string;
+  title: string | null;
+  publishedAt: string | null;
+  imageUrl: string | null;
+  relevant: boolean;
+  error?: string;
+};
+
 export type SourceRegistryItem = {
   id: string;
   label: string;
@@ -137,6 +150,7 @@ export type SourceStatusItem = SourceRegistryItem & {
 export const artists = artistsData as ArtistProfile[];
 export const events = eventsData as EventItem[];
 export const guides = guidesData as GuideItem[];
+export const officialUpdates = officialUpdatesData as OfficialUpdateItem[];
 export const communityPosts = communityData as CommunityPost[];
 export const sourceRegistry = sourceRegistryData as SourceRegistryItem[];
 export const sourceStatus = sourceStatusData as SourceStatusItem[];

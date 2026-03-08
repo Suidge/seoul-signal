@@ -11,8 +11,10 @@ git checkout "$BRANCH"
 git pull --ff-only origin "$BRANCH"
 pnpm install --frozen-lockfile
 pnpm sync:sources
+pnpm sync:official-updates
 pnpm sync:images
 pnpm sync:event-images
+pnpm sync:venue-guides
 pnpm refresh:editorial
 pnpm redesign:visuals
 pnpm prepare:pages

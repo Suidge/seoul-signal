@@ -30,15 +30,6 @@ async function writeJson(file, data) {
   await fs.writeFile(file, `${JSON.stringify(data, null, 2)}\n`);
 }
 
-async function exists(file) {
-  try {
-    await fs.access(file);
-    return true;
-  } catch {
-    return false;
-  }
-}
-
 async function fetchHtml(url) {
   const response = await fetch(url, {
     headers: {
@@ -203,10 +194,8 @@ async function main() {
   for (const source of registry) {
     const resolved = await resolveSource(source);
     const outputPath = path.join(publicDir, source.targetPath.replace(/^\//, ""));
-    if (!(await exists(outputPath))) {
-      await downloadFile(resolved.url, outputPath);
-      await new Promise((resolve) => setTimeout(resolve, 2500));
-    }
+    await downloadFile(resolved.url, outputPath);
+    await new Promise((resolve) => setTimeout(resolve, 1200));
 
     const artist = artistBySlug.get(source.artistSlug);
     if (!artist) {

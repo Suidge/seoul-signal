@@ -10,6 +10,7 @@ import { TourPlanCard } from "@/components/tour-plan-card";
 import { getArtistBySlug, getArtists } from "@/lib/events";
 import { assetPath } from "@/lib/assets";
 import { communityPosts, guides, type EventItem } from "@/lib/site-data";
+import { formatShortDate, officialUpdates } from "@/lib/site-data";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -44,6 +45,7 @@ export default async function ArtistDetailPage({ params }: Props) {
 
   const relatedGuides = guides.filter((guide) => guide.relatedArtists?.includes(artist.slug)).slice(0, 4);
   const relatedPosts = communityPosts.filter((post) => post.relatedArtists?.includes(artist.slug)).slice(0, 3);
+  const latestOfficialUpdate = officialUpdates.find((item) => item.artistSlug === artist.slug && item.relevant && item.title);
 
   return (
     <main className="page-shell">
@@ -116,6 +118,37 @@ export default async function ArtistDetailPage({ params }: Props) {
           </article>
         ))}
       </section>
+
+      {latestOfficialUpdate ? (
+        <>
+          <section className="section-head">
+            <div>
+              <p className="eyebrow">官方动态</p>
+              <h2>最近一条值得留意的官方更新</h2>
+            </div>
+          </section>
+          <section className="content-grid">
+            <article className="detail-block">
+              <p className="eyebrow">{latestOfficialUpdate.provider}</p>
+              <h2>{latestOfficialUpdate.title}</h2>
+              <p>
+                这一条是从官方页面自动同步过来的，适合在等新一轮排期、fanmeeting 或 teaser 时先盯住风向。
+              </p>
+              <p className="detail-note">
+                最近同步: {formatShortDate(latestOfficialUpdate.checkedAt)}
+              </p>
+              {latestOfficialUpdate.publishedAt ? (
+                <p className="detail-note">官方发布时间: {formatShortDate(latestOfficialUpdate.publishedAt)}</p>
+              ) : null}
+              <div className="link-row">
+                <a className="ticket-link" href={latestOfficialUpdate.sourceUrl} rel="noreferrer" target="_blank">
+                  查看官方页面
+                </a>
+              </div>
+            </article>
+          </section>
+        </>
+      ) : null}
 
       <section className="section-head">
         <div>
