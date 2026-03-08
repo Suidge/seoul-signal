@@ -18,8 +18,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NEXT_PUBLIC_SITE_URL: https://suidge.github.io/seoul-signal
-      NEXT_PUBLIC_BASE_PATH: /seoul-signal
+      NEXT_PUBLIC_SITE_URL: https://suidge.github.io/koncert-together
+      NEXT_PUBLIC_BASE_PATH: /koncert-together
     steps:
       - name: Checkout
         uses: actions/checkout@v4

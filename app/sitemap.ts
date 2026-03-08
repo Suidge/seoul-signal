@@ -5,7 +5,7 @@ import { guides } from "@/lib/site-data";
 export const dynamic = "force-static";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://suidge.github.io/seoul-signal";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://suidge.github.io/koncert-together";
   const [events, artists] = await Promise.all([getAllEvents(), getArtists()]);
 
   return [

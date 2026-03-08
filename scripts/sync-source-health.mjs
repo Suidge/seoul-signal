@@ -26,7 +26,7 @@ async function fetchWithTimeout(url, options = {}) {
       redirect: "follow",
       signal: controller.signal,
       headers: {
-        "user-agent": "KoncertTogetherTrialBot/0.1 (+https://github.com/Suidge/seoul-signal)",
+        "user-agent": "KoncertTogetherTrialBot/0.1 (+https://github.com/Suidge/koncert-together)",
         accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
       },
       ...options

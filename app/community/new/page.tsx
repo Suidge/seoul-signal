@@ -18,7 +18,7 @@ export default function CommunitySubmissionPage() {
           试运行阶段先通过 GitHub issue 收集场馆经验、应援项目和城市协作内容。这样可以先验证内容需求，再决定后续要不要做真正的站内社区系统。
         </p>
         <div className="hero-actions">
-          <Link className="primary-button" href="https://github.com/Suidge/seoul-signal/issues/new">
+          <Link className="primary-button" href="https://github.com/Suidge/koncert-together/issues/new">
             提交内容
           </Link>
         </div>
