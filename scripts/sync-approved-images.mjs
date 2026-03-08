@@ -69,6 +69,10 @@ async function fetchCommonsThumb(fileTitle) {
   };
 }
 
+function defaultArtistVisual(slug) {
+  return `/media/artists/${slug}.svg`;
+}
+
 async function downloadFile(url, targetPath) {
   await fs.mkdir(path.dirname(targetPath), { recursive: true });
   await execFileAsync("curl", [
@@ -110,8 +114,26 @@ async function main() {
 
   const artistBySlug = new Map(artists.map((artist) => [artist.slug, artist]));
 
+  for (const artist of artists) {
+    artist.coverImage = defaultArtistVisual(artist.slug);
+    artist.heroImage = defaultArtistVisual(artist.slug);
+    delete artist.imageAttribution;
+  }
+
+  for (const event of events) {
+    event.heroImage = defaultEventVisual(event.slug);
+    delete event.heroImageAttribution;
+  }
+
   for (const source of registry) {
-    const resolved = await fetchCommonsThumb(source.fileTitle);
+    const resolved = source.type === "official_direct"
+      ? {
+          url: source.assetUrl,
+          creator: source.creator,
+          license: source.license,
+          sourceLabel: source.label
+        }
+      : await fetchCommonsThumb(source.fileTitle);
     const outputPath = path.join(publicDir, source.targetPath.replace(/^\//, ""));
     if (!(await exists(outputPath))) {
       await downloadFile(resolved.url, outputPath);
@@ -125,7 +147,13 @@ async function main() {
 
     artist.coverImage = source.targetPath;
     artist.heroImage = source.targetPath;
-    artist.imageAttribution = buildAttribution(source, resolved);
+    artist.imageAttribution = {
+      provider: source.provider,
+      creator: source.creator || resolved.creator || source.provider,
+      license: source.license || resolved.license || "See source",
+      sourceUrl: source.officialPageUrl || source.sourceUrl,
+      sourceLabel: source.label || source.sourceLabel || resolved.sourceLabel
+    };
 
     for (const event of events) {
       if (event.artistSlug === source.artistSlug || event.artist === artist.name) {

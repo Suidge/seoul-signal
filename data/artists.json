@@ -103,8 +103,8 @@
       "Visual"
     ],
     "memberCount": 4,
-    "coverImage": "/media/artists/aespa.jpg",
-    "heroImage": "/media/artists/aespa.jpg",
+    "coverImage": "/media/artists/aespa.svg",
+    "heroImage": "/media/artists/aespa.svg",
     "members": [
       {
         "slug": "karina",
@@ -134,14 +134,7 @@
         "profile": "Ningning 的个人入口会优先整理舞台记忆点、返图讨论和 适合收纳抢票后选座时最常被问到的视角偏好和舞台覆盖范围。",
         "initials": "NI"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "David Lee",
-      "license": "CC BY 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aespa_06.jpg",
-      "sourceLabel": "Aespa 06"
-    }
+    ]
   },
   {
     "slug": "ateez",
@@ -161,8 +154,8 @@
       "North America"
     ],
     "memberCount": 8,
-    "coverImage": "/media/artists/ateez.jpg",
-    "heroImage": "/media/artists/ateez.jpg",
+    "coverImage": "/media/artists/ateez-official.png",
+    "heroImage": "/media/artists/ateez-official.png",
     "members": [
       {
         "slug": "hongjoong",
@@ -222,11 +215,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ateez_at_The_World_EP._2_Outlaw_Showcase.jpg",
-      "sourceLabel": "Ateez at The World EP. 2 Outlaw Showcase"
+      "provider": "ATEEZ Official",
+      "creator": "KQ Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://ateez.kqent.com/",
+      "sourceLabel": "ATEEZ official share image"
     }
   },
   {
@@ -247,8 +240,8 @@
       "Fandom"
     ],
     "memberCount": 7,
-    "coverImage": "/media/artists/babymonster.jpg",
-    "heroImage": "/media/artists/babymonster.jpg",
+    "coverImage": "/media/artists/babymonster.svg",
+    "heroImage": "/media/artists/babymonster.svg",
     "members": [
       {
         "slug": "ruka",
@@ -299,14 +292,7 @@
         "profile": "Chiquita 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "CH"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "SBS Radio",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BabyMonster_at_SBS_Radio_on_20240428.jpg",
-      "sourceLabel": "BabyMonster at SBS Radio"
-    }
+    ]
   },
   {
     "slug": "bibi",
@@ -356,8 +342,8 @@
       "VIP"
     ],
     "memberCount": 4,
-    "coverImage": "/media/artists/blackpink.jpg",
-    "heroImage": "/media/artists/blackpink.jpg",
+    "coverImage": "/media/artists/blackpink-official.png",
+    "heroImage": "/media/artists/blackpink-official.png",
     "members": [
       {
         "slug": "jisoo",
@@ -389,11 +375,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Robbie Klinkenberg",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20190518_Blackpink_Amsterdam_concert_04.jpg",
-      "sourceLabel": "Blackpink Amsterdam concert 04"
+      "provider": "BLACKPINK Official",
+      "creator": "YG Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://www.blackpinkmusic.com/",
+      "sourceLabel": "BLACKPINK official share image"
     }
   },
   {
@@ -414,8 +400,8 @@
       "Travel"
     ],
     "memberCount": 6,
-    "coverImage": "/media/artists/boynextdoor.jpg",
-    "heroImage": "/media/artists/boynextdoor.jpg",
+    "coverImage": "/media/artists/boynextdoor.svg",
+    "heroImage": "/media/artists/boynextdoor.svg",
     "members": [
       {
         "slug": "sungho",
@@ -459,14 +445,7 @@
         "profile": "Woonhak 的个人入口会优先整理舞台记忆点、返图讨论和 适合补充成员相关应援点、拍照时机和舞台互动记忆点。",
         "initials": "WO"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:230602_BOYNEXTDOOR_(%EB%B3%B4%EC%9D%B4%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%8F%84%EC%96%B4).jpg",
-      "sourceLabel": "BOYNEXTDOOR 230602"
-    }
+    ]
   },
   {
     "slug": "btob",
@@ -544,8 +523,8 @@
       "Membership"
     ],
     "memberCount": 7,
-    "coverImage": "/media/artists/bts.jpg",
-    "heroImage": "/media/artists/bts.jpg",
+    "coverImage": "/media/artists/bts.svg",
+    "heroImage": "/media/artists/bts.svg",
     "members": [
       {
         "slug": "rm",
@@ -596,14 +575,7 @@
         "profile": "Jung Kook 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "JK"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Dispatch",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BTS_during_a_photoshoot_for_Korea_Dispatch_in_Las_Vegas,_May_2019_08.jpg",
-      "sourceLabel": "BTS Dispatch Las Vegas 2019"
-    }
+    ]
   },
   {
     "slug": "day6",
@@ -623,8 +595,8 @@
       "Korea"
     ],
     "memberCount": 4,
-    "coverImage": "/media/artists/day6.jpg",
-    "heroImage": "/media/artists/day6.jpg",
+    "coverImage": "/media/artists/day6-official.jpg",
+    "heroImage": "/media/artists/day6-official.jpg",
     "members": [
       {
         "slug": "sungjin",
@@ -656,11 +628,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Shuohyun",
-      "license": "CC BY-SA 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:DAY6_in_taiwan.jpg",
-      "sourceLabel": "DAY6 in Taiwan"
+      "provider": "DAY6 Official",
+      "creator": "JYP Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://day6.jype.com/",
+      "sourceLabel": "DAY6 official main visual"
     }
   },
   {
@@ -681,8 +653,8 @@
       "Asia"
     ],
     "memberCount": 7,
-    "coverImage": "/media/artists/enhypen.png",
-    "heroImage": "/media/artists/enhypen.png",
+    "coverImage": "/media/artists/enhypen.svg",
+    "heroImage": "/media/artists/enhypen.svg",
     "members": [
       {
         "slug": "jungwon",
@@ -733,14 +705,7 @@
         "profile": "Ni-ki 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "NK"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ENHYPEN_at_EVERGREEN_ENERGY_2023.png",
-      "sourceLabel": "ENHYPEN at EVERGREEN ENERGY 2023"
-    }
+    ]
   },
   {
     "slug": "evnne",
@@ -1229,8 +1194,8 @@
       "Performance"
     ],
     "memberCount": 5,
-    "coverImage": "/media/artists/itzy.png",
-    "heroImage": "/media/artists/itzy.png",
+    "coverImage": "/media/artists/itzy-official.jpg",
+    "heroImage": "/media/artists/itzy-official.jpg",
     "members": [
       {
         "slug": "yeji",
@@ -1269,11 +1234,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Dispatch",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itzy_going_to_a_Music_Bank_recording_on_August_8,_2019.png",
-      "sourceLabel": "Itzy at Music Bank recording"
+      "provider": "ITZY Official",
+      "creator": "JYP Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://itzy.jype.com/",
+      "sourceLabel": "ITZY official share image"
     }
   },
   {
@@ -1294,8 +1259,8 @@
       "Legacy"
     ],
     "memberCount": 1,
-    "coverImage": "/media/artists/iu.jpg",
-    "heroImage": "/media/artists/iu.jpg",
+    "coverImage": "/media/artists/iu.svg",
+    "heroImage": "/media/artists/iu.svg",
     "members": [
       {
         "slug": "iu",
@@ -1304,14 +1269,7 @@
         "profile": "IU 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "IU"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Marie Claire Korea",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IU_singer_2.jpg",
-      "sourceLabel": "IU singer 2"
-    }
+    ]
   },
   {
     "slug": "ive",
@@ -1331,8 +1289,8 @@
       "Travel"
     ],
     "memberCount": 6,
-    "coverImage": "/media/artists/ive.jpg",
-    "heroImage": "/media/artists/ive.jpg",
+    "coverImage": "/media/artists/ive.svg",
+    "heroImage": "/media/artists/ive.svg",
     "members": [
       {
         "slug": "yujin",
@@ -1376,14 +1334,7 @@
         "profile": "Leeseo 的个人入口会优先整理舞台记忆点、返图讨论和 适合补充成员相关应援点、拍照时机和舞台互动记忆点。",
         "initials": "LE"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Korea.net / Korean Culture and Information Service",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:IVE_(%EC%95%84%EC%9D%B4%EB%B8%8C)_performing_at_the_2023_World_Scout_Jamboree_K-POP_Super_Live_Concert.jpg",
-      "sourceLabel": "IVE at World Scout Jamboree K-pop Super Live"
-    }
+    ]
   },
   {
     "slug": "izna",
@@ -1804,8 +1755,8 @@
       "Asia"
     ],
     "memberCount": 4,
-    "coverImage": "/media/artists/kiss-of-life.svg",
-    "heroImage": "/media/artists/kiss-of-life.svg",
+    "coverImage": "/media/artists/kiss-of-life-official.png",
+    "heroImage": "/media/artists/kiss-of-life-official.png",
     "members": [
       {
         "slug": "julie",
@@ -1835,7 +1786,14 @@
         "profile": "Haneul 的个人入口会优先整理舞台记忆点、返图讨论和 适合收纳抢票后选座时最常被问到的视角偏好和舞台覆盖范围。",
         "initials": "HA"
       }
-    ]
+    ],
+    "imageAttribution": {
+      "provider": "KISS OF LIFE Official",
+      "creator": "S2 Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://www.s2ent.co.kr/",
+      "sourceLabel": "KISS OF LIFE official visual"
+    }
   },
   {
     "slug": "le-sserafim",
@@ -1855,8 +1813,8 @@
       "Travel"
     ],
     "memberCount": 5,
-    "coverImage": "/media/artists/le-sserafim.jpg",
-    "heroImage": "/media/artists/le-sserafim.jpg",
+    "coverImage": "/media/artists/le-sserafim.svg",
+    "heroImage": "/media/artists/le-sserafim.svg",
     "members": [
       {
         "slug": "chaewon",
@@ -1893,14 +1851,7 @@
         "profile": "Eunchae 的个人入口会优先整理舞台记忆点、返图讨论和 适合在艺人页里沉淀同场观演体验、返图热区和安可环节提示。",
         "initials": "EU"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:221127_LE_SSERAFIM_(%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C)_Airport_Departure.jpg",
-      "sourceLabel": "LE SSERAFIM Airport Departure"
-    }
+    ]
   },
   {
     "slug": "meovv",
@@ -2122,8 +2073,8 @@
       "Travel"
     ],
     "memberCount": 7,
-    "coverImage": "/media/artists/nct-dream.png",
-    "heroImage": "/media/artists/nct-dream.png",
+    "coverImage": "/media/artists/nct-dream.svg",
+    "heroImage": "/media/artists/nct-dream.svg",
     "members": [
       {
         "slug": "mark",
@@ -2174,14 +2125,7 @@
         "profile": "Jisung 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "JI"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NCT_Dream_at_DREAM()SCAPE_Press_Conference.png",
-      "sourceLabel": "NCT Dream at DREAM()SCAPE Press Conference"
-    }
+    ]
   },
   {
     "slug": "newjeans",
@@ -2201,8 +2145,8 @@
       "Fandom"
     ],
     "memberCount": 5,
-    "coverImage": "/media/artists/newjeans.jpg",
-    "heroImage": "/media/artists/newjeans.jpg",
+    "coverImage": "/media/artists/newjeans.svg",
+    "heroImage": "/media/artists/newjeans.svg",
     "members": [
       {
         "slug": "minji",
@@ -2239,14 +2183,7 @@
         "profile": "Hyein 的个人入口会优先整理舞台记忆点、返图讨论和 适合在艺人页里沉淀同场观演体验、返图热区和安可环节提示。",
         "initials": "HY"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NewJeans_230905.jpg",
-      "sourceLabel": "NewJeans 230905"
-    }
+    ]
   },
   {
     "slug": "nexz",
@@ -2317,8 +2254,15 @@
       }
     ],
     "memberCount": 7,
-    "coverImage": "/media/artists/nexz.svg",
-    "heroImage": "/media/artists/nexz.svg"
+    "coverImage": "/media/artists/nexz-official.png",
+    "heroImage": "/media/artists/nexz-official.png",
+    "imageAttribution": {
+      "provider": "NEXZ Official",
+      "creator": "JYP Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://nexz-official.com/",
+      "sourceLabel": "NEXZ official share image"
+    }
   },
   {
     "slug": "nmixx",
@@ -2338,8 +2282,8 @@
       "Asia"
     ],
     "memberCount": 6,
-    "coverImage": "/media/artists/nmixx.png",
-    "heroImage": "/media/artists/nmixx.png",
+    "coverImage": "/media/artists/nmixx-official.jpg",
+    "heroImage": "/media/artists/nmixx-official.jpg",
     "members": [
       {
         "slug": "lily",
@@ -2385,11 +2329,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NMIXX_220618.png",
-      "sourceLabel": "NMIXX 220618"
+      "provider": "NMIXX Official",
+      "creator": "JYP Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://nmixx.jype.com/",
+      "sourceLabel": "NMIXX official main visual"
     }
   },
   {
@@ -2700,8 +2644,8 @@
       "Travel"
     ],
     "memberCount": 6,
-    "coverImage": "/media/artists/riize.png",
-    "heroImage": "/media/artists/riize.png",
+    "coverImage": "/media/artists/riize.svg",
+    "heroImage": "/media/artists/riize.svg",
     "members": [
       {
         "slug": "shotaro",
@@ -2745,14 +2689,7 @@
         "profile": "Anton 的个人入口会优先整理舞台记忆点、返图讨论和 适合补充成员相关应援点、拍照时机和舞台互动记忆点。",
         "initials": "AN"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TenAsia",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riize_at_the_2024_Melon_Music_Awards-2.png",
-      "sourceLabel": "Riize at 2024 Melon Music Awards"
-    }
+    ]
   },
   {
     "slug": "seventeen",
@@ -2772,8 +2709,8 @@
       "Travel"
     ],
     "memberCount": 13,
-    "coverImage": "/media/artists/seventeen.jpg",
-    "heroImage": "/media/artists/seventeen.jpg",
+    "coverImage": "/media/artists/seventeen.svg",
+    "heroImage": "/media/artists/seventeen.svg",
     "members": [
       {
         "slug": "s-coups",
@@ -2866,14 +2803,7 @@
         "profile": "Dino 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "DI"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Korea.net / Korean Culture and Information Service (Jeon Han)",
-      "license": "CC BY-SA 2.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seventeen_(%EC%84%B8%EB%B8%90%ED%8B%B4)_at_2015_Summer_K-POP_Festival.jpg",
-      "sourceLabel": "Seventeen at 2015 Summer K-pop Festival"
-    }
+    ]
   },
   {
     "slug": "shinee",
@@ -3009,8 +2939,8 @@
       "Travel"
     ],
     "memberCount": 8,
-    "coverImage": "/media/artists/stray-kids.png",
-    "heroImage": "/media/artists/stray-kids.png",
+    "coverImage": "/media/artists/stray-kids.svg",
+    "heroImage": "/media/artists/stray-kids.svg",
     "members": [
       {
         "slug": "bang-chan",
@@ -3068,14 +2998,7 @@
         "profile": "I.N 的个人入口会优先整理舞台记忆点、返图讨论和 适合在指南里记录舞台段落、服装变化和粉丝常提到的看点。",
         "initials": "IN"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stray_Kids_at_Incheon_Airport,_May_3,_2024.png",
-      "sourceLabel": "Stray Kids at Incheon Airport"
-    }
+    ]
   },
   {
     "slug": "super-junior",
@@ -3181,8 +3104,8 @@
       "Japan"
     ],
     "memberCount": 1,
-    "coverImage": "/media/artists/taemin.jpg",
-    "heroImage": "/media/artists/taemin.jpg",
+    "coverImage": "/media/artists/taemin.svg",
+    "heroImage": "/media/artists/taemin.svg",
     "members": [
       {
         "slug": "taemin",
@@ -3191,14 +3114,7 @@
         "profile": "Taemin 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "TA"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:240919_SHINEE_Taemin.jpg",
-      "sourceLabel": "Taemin 240919"
-    }
+    ]
   },
   {
     "slug": "taeyeon",
@@ -3218,8 +3134,8 @@
       "Legacy"
     ],
     "memberCount": 1,
-    "coverImage": "/media/artists/taeyeon.jpg",
-    "heroImage": "/media/artists/taeyeon.jpg",
+    "coverImage": "/media/artists/taeyeon.svg",
+    "heroImage": "/media/artists/taeyeon.svg",
     "members": [
       {
         "slug": "taeyeon",
@@ -3228,14 +3144,7 @@
         "profile": "Taeyeon 的个人入口会优先整理舞台记忆点、返图讨论和 适合优先补充饭拍高频站位、安可互动和现场应援点的观察。",
         "initials": "TA"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Sweet3Haven9",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kim_Taeyeon,_Kpop_Expo_in_Asia_140921_(cropped).jpg",
-      "sourceLabel": "Kim Taeyeon at K-pop Expo in Asia"
-    }
+    ]
   },
   {
     "slug": "the-boyz",
@@ -3355,8 +3264,8 @@
       "Membership"
     ],
     "memberCount": 5,
-    "coverImage": "/media/artists/txt.png",
-    "heroImage": "/media/artists/txt.png",
+    "coverImage": "/media/artists/txt.svg",
+    "heroImage": "/media/artists/txt.svg",
     "members": [
       {
         "slug": "soobin",
@@ -3393,14 +3302,7 @@
         "profile": "Huening Kai 的个人入口会优先整理舞台记忆点、返图讨论和 适合在艺人页里沉淀同场观演体验、返图热区和安可环节提示。",
         "initials": "HK"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Dispatch",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TXT_at_Soribada_Awards_on_August_23,_2019.png",
-      "sourceLabel": "TXT at Soribada Awards"
-    }
+    ]
   },
   {
     "slug": "treasure",
@@ -3620,8 +3522,8 @@
       "Japan"
     ],
     "memberCount": 9,
-    "coverImage": "/media/artists/twice.jpg",
-    "heroImage": "/media/artists/twice.jpg",
+    "coverImage": "/media/artists/twice-official.png",
+    "heroImage": "/media/artists/twice-official.png",
     "members": [
       {
         "slug": "nayeon",
@@ -3688,11 +3590,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Steven Anthony Hammock",
-      "license": "CC BY-SA 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Twice_-_Dickies_Arena,_2022_(cropped).jpg",
-      "sourceLabel": "Twice at Dickies Arena"
+      "provider": "TWICE Official",
+      "creator": "JYP Entertainment",
+      "license": "Official promotional image",
+      "sourceUrl": "https://twice.jype.com/",
+      "sourceLabel": "TWICE official share image"
     }
   },
   {
@@ -3808,8 +3710,8 @@
       "Travel"
     ],
     "memberCount": 6,
-    "coverImage": "/media/artists/wayv.jpg",
-    "heroImage": "/media/artists/wayv.jpg",
+    "coverImage": "/media/artists/wayv.svg",
+    "heroImage": "/media/artists/wayv.svg",
     "members": [
       {
         "slug": "kun",
@@ -3853,14 +3755,7 @@
         "profile": "Winwin 的个人入口会优先整理舞台记忆点、返图讨论和 适合补充成员相关应援点、拍照时机和舞台互动记忆点。",
         "initials": "WI"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "Bugaboo.TV",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WayV_during_fanmeeting_in_December_2019_02.jpg",
-      "sourceLabel": "WayV during fanmeeting in December 2019"
-    }
+    ]
   },
   {
     "slug": "woodz",
@@ -3910,8 +3805,8 @@
       "Travel"
     ],
     "memberCount": 7,
-    "coverImage": "/media/artists/xg.jpg",
-    "heroImage": "/media/artists/xg.jpg",
+    "coverImage": "/media/artists/xg-official.png",
+    "heroImage": "/media/artists/xg-official.png",
     "members": [
       {
         "slug": "jurin",
@@ -3964,11 +3859,11 @@
       }
     ],
     "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 4.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-01-30_XG_at_Gimpo_Airport_11.jpg",
-      "sourceLabel": "XG at Gimpo Airport"
+      "provider": "XG Official",
+      "creator": "XGALX",
+      "license": "Official promotional image",
+      "sourceUrl": "https://xgalx.com/xg/",
+      "sourceLabel": "XG official share image"
     }
   },
   {
@@ -3989,8 +3884,8 @@
       "Asia"
     ],
     "memberCount": 9,
-    "coverImage": "/media/artists/zerobaseone.jpg",
-    "heroImage": "/media/artists/zerobaseone.jpg",
+    "coverImage": "/media/artists/zerobaseone.svg",
+    "heroImage": "/media/artists/zerobaseone.svg",
     "members": [
       {
         "slug": "sung-hanbin",
@@ -4055,14 +3950,7 @@
         "profile": "Han Yujin 的个人入口会优先整理舞台记忆点、返图讨论和 适合承接首次入坑用户最容易搜到的代表舞台和现场表现关键词。",
         "initials": "HY"
       }
-    ],
-    "imageAttribution": {
-      "provider": "Wikimedia Commons",
-      "creator": "TV10",
-      "license": "CC BY 3.0",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:230513_ZEROBASEONE_(ZB1).jpg",
-      "sourceLabel": "ZEROBASEONE 230513"
-    }
+    ]
   },
   {
     "slug": "zico",
