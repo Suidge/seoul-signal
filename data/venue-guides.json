@@ -9,7 +9,35 @@
       "住处优先围绕奥林匹克公园或直达线，不要把返程完全压在最后一班车上",
       "票一到手就顺便看回程路线，散场后的站内人流通常是整天最耗体力的一段"
     ],
-    "relatedArtists": ["seventeen", "taeyeon", "btob", "nct-dream"]
+    "relatedArtists": ["seventeen", "taeyeon", "btob", "nct-dream"],
+    "practical": {
+      "accessTips": [
+        "先把奥林匹克公园站和园区入口的步行路线存好，第一次去最容易低估园区尺度",
+        "如果是雨天或冬天场次，到场时间建议再往前提，排队体感会明显变差",
+        "散场后优先回主干地铁线，不要在园区里边走边临时找路"
+      ],
+      "seatTips": [
+        "这类馆更适合先看主舞台与延伸台关系，再决定是否追求更近的斜侧区",
+        "如果你的目标是看整体编舞和大屏，稳定看台通常比角度激进的近区更省后悔成本"
+      ],
+      "stayTips": [
+        "住在蚕室、奥林匹克公园周边或有直达线的区域，通常比单纯住明洞更省心",
+        "第二天还要继续赶场的话，优先选不用多次换乘的地铁线，而不是只看热门商圈"
+      ],
+      "foodTips": [
+        "园区内外演前人流会明显堆积，适合提前在地铁站周边解决正餐，再轻装进场",
+        "散场后如果不想排队，先以便利店补给和直线返程为主，别把体力耗在找深夜餐厅上"
+      ],
+      "convenienceTips": [
+        "把最近的便利店和出站补给点提前存在地图里，演前买水和简单补给会快很多",
+        "应援物、充电线和一次性雨具这类临时补件，优先在进园区前解决"
+      ],
+      "links": [
+        { "label": "官方场馆信息", "href": "https://www.ksponco.or.kr/olympicparkeng/" },
+        { "label": "Google Maps: KSPO Dome", "href": "https://www.google.com/maps/search/KSPO+Dome" },
+        { "label": "Google Maps: Olympic Park hotels", "href": "https://www.google.com/maps/search/hotels+near+Olympic+Park+Seoul" }
+      ]
+    }
   },
   {
     "slug": "inspire-arena-venue-guide",
@@ -21,7 +49,32 @@
       "如果是第一次去，优先看官方接驳和演出日交通公告，不要只看地图距离",
       "夜场散场后别临时决定交通方式，机场岛路线和市区高频馆不一样"
     ],
-    "relatedArtists": ["enhypen", "babymonster", "boynextdoor"]
+    "relatedArtists": ["enhypen", "babymonster", "boynextdoor"],
+    "practical": {
+      "accessTips": [
+        "机场岛场馆优先看官方接驳和演出日特别交通，不要照搬首尔市区场馆经验",
+        "如果你当天飞进飞出，行李、check-in 和接驳时间要一起算，不要分开看"
+      ],
+      "seatTips": [
+        "这类新馆更值得优先看官方平面图和区块命名，防止买票时只看数字不看朝向"
+      ],
+      "stayTips": [
+        "只看一场的话，机场周边住宿通常比往返首尔更省体力",
+        "如果行程里还要去市区，把演后移动和第二天行程一起权衡，不要只盯单晚价格"
+      ],
+      "foodTips": [
+        "机场岛商业体更适合提前解决餐食，散场后把重点放在顺利离场",
+        "如果你要排周边或应援交换，进场前先把水和轻食补足"
+      ],
+      "convenienceTips": [
+        "机场与综合体内补给点够用，但演出日排队会比平时慢，别把补给留到最后一刻"
+      ],
+      "links": [
+        { "label": "官方场馆信息", "href": "https://www.inspirekorea.com/en/entertainment/arena" },
+        { "label": "Google Maps: Inspire Arena", "href": "https://www.google.com/maps/search/Inspire+Arena+Incheon" },
+        { "label": "Google Maps: Inspire / Incheon Airport hotels", "href": "https://www.google.com/maps/search/hotels+near+Inspire+Arena+Incheon" }
+      ]
+    }
   },
   {
     "slug": "tokyo-dome-venue-guide",
@@ -33,7 +86,34 @@
       "东京巨蛋周边餐饮多，但演出前后会非常拥挤，能提前解决就别压在最后一刻",
       "如果第二天还要赶车或赶飞机，最好优先住在不用多次换乘的线路上"
     ],
-    "relatedArtists": ["twice", "shinee", "aespa", "kep1er"]
+    "relatedArtists": ["twice", "shinee", "aespa", "kep1er"],
+    "practical": {
+      "accessTips": [
+        "先按自己酒店所在铁路/地铁线决定用哪个站进出，别把所有人都默认成 Suidobashi",
+        "散场后要先想好回程方向，东京巨蛋周边线路多，但人流密集时反而更容易走错"
+      ],
+      "seatTips": [
+        "巨蛋场更适合先看舞台是否有延伸台和花车，再决定看台高度和角度",
+        "如果你更在意整体编排和灯光，大范围正面看台通常比极斜角近区更稳"
+      ],
+      "stayTips": [
+        "第一次去东京巨蛋看演出，住在总武线、丸之内线或南北线沿线通常比住热门景点区更顺手",
+        "有次日移动计划的话，优先保证酒店到车站少换乘，而不是只看商圈热度"
+      ],
+      "foodTips": [
+        "Tokyo Dome City 内外餐饮很多，但演前高峰会非常满，适合提前一点吃完再进场",
+        "演后如果还要赶车，建议把宵夜需求留给车站周边便利店或酒店附近解决"
+      ],
+      "convenienceTips": [
+        "巨蛋周边补给足够，但演出前别再排长队买水，先在进场前一站解决更轻松"
+      ],
+      "links": [
+        { "label": "官方交通指南", "href": "https://www.tokyo-dome.co.jp/en/tourists/directions/" },
+        { "label": "Tokyo Dome City 官方地图", "href": "https://www.tokyo-dome.co.jp/en/tourists/" },
+        { "label": "Google Maps: Tokyo Dome", "href": "https://www.google.com/maps/search/Tokyo+Dome" },
+        { "label": "Google Maps: hotels near Tokyo Dome", "href": "https://www.google.com/maps/search/hotels+near+Tokyo+Dome" }
+      ]
+    }
   },
   {
     "slug": "k-arena-yokohama-venue-guide",
@@ -45,7 +125,34 @@
       "K-Arena 更适合提前吃完再进场，散场后周边人流会明显堆积",
       "如果你更在意正面完整视线，这类前向舞台馆通常比多面台更容易做选择"
     ],
-    "relatedArtists": ["andteam", "tws", "twice"]
+    "relatedArtists": ["andteam", "tws", "twice"],
+    "practical": {
+      "accessTips": [
+        "官方建议先看横滨站和馆之间的步行动线，第一次去不要压缩走路时间",
+        "湾区馆演后分流明显，回横滨站和回酒店的路线最好提前定好"
+      ],
+      "seatTips": [
+        "K-Arena 的核心卖点就是前向舞台，选区时更该看与主舞台的正面关系，而不是只盯排数",
+        "如果你更看重完整舞台和灯光，稳定正面区通常比侧近区更适合"
+      ],
+      "stayTips": [
+        "横滨站周边比只住东京市区更适合夜场返程，尤其适合隔天还要在横滨移动的人",
+        "如果住东京，尽量选回程线路简单的区域，不要把深夜多次换乘留给自己"
+      ],
+      "foodTips": [
+        "演前适合在横滨站或周边商场先解决餐食，再沿固定路线步行到馆",
+        "散场后不建议临时找热门餐厅，先把回程做顺，再决定要不要补宵夜"
+      ],
+      "convenienceTips": [
+        "进场前先在横滨站周边把饮水和简单补给准备好，馆周边高峰时段会明显变慢"
+      ],
+      "links": [
+        { "label": "官方交通指南", "href": "https://k-arena.com/en/access/" },
+        { "label": "官方馆内楼层图", "href": "https://k-arena.com/en/floormap/" },
+        { "label": "Google Maps: K-Arena Yokohama", "href": "https://www.google.com/maps/search/K-Arena+Yokohama" },
+        { "label": "Google Maps: hotels near Yokohama Station", "href": "https://www.google.com/maps/search/hotels+near+Yokohama+Station" }
+      ]
+    }
   },
   {
     "slug": "asiaworld-arena-venue-guide",
@@ -57,7 +164,33 @@
       "如果要当天跨境往返，先把最后一段交通锁定，不要把选择留到散场后",
       "住在机场线沿线通常比只看地理距离更省心"
     ],
-    "relatedArtists": ["le-sserafim", "riize", "blackpink"]
+    "relatedArtists": ["le-sserafim", "riize", "blackpink"],
+    "practical": {
+      "accessTips": [
+        "先决定是机场快线、东涌线接驳、机场巴士还是跨境口岸回程，AsiaWorld-Arena 最怕临场改路线",
+        "官方会按活动更新特别交通安排，演出前一天最好再查一次"
+      ],
+      "seatTips": [
+        "先看是端台还是延伸台，再决定是否追求近区；香港场很多时候交通和时间成本和票位要一起算"
+      ],
+      "stayTips": [
+        "如果只看这一场，机场线沿线或机场周边酒店通常最省体力",
+        "如果第二天还要进市区游玩，可以改住九龙或港岛，但要把夜间回程多算进去"
+      ],
+      "foodTips": [
+        "机场岛更适合演前把餐食解决，演后优先保证回程，不要临时再找馆外餐饮",
+        "当天往返观众建议把轻食和水提前准备好，别把时间消耗在散场后排队"
+      ],
+      "convenienceTips": [
+        "跨境场一定要把充电、电量、证件和最后一段交通当成同一个 checklist 来看"
+      ],
+      "links": [
+        { "label": "官方交通指南", "href": "https://www.asiaworld-expo.com/en-us/visit/getting-here/" },
+        { "label": "官方场馆资讯", "href": "https://www.asiaworld-expo.com/en-us/visit/" },
+        { "label": "Google Maps: AsiaWorld-Arena", "href": "https://www.google.com/maps/search/AsiaWorld-Arena" },
+        { "label": "Google Maps: hotels near AsiaWorld-Expo", "href": "https://www.google.com/maps/search/hotels+near+AsiaWorld-Expo" }
+      ]
+    }
   },
   {
     "slug": "impact-arena-venue-guide",
@@ -69,7 +202,32 @@
       "如果演后需要叫车，提前和同行约好集合点会省很多时间",
       "跨城或跨国赶场时，把第二天出发时间和散场体力一起算进去"
     ],
-    "relatedArtists": ["stray-kids", "oneus", "taemin", "kiss-of-life"]
+    "relatedArtists": ["stray-kids", "oneus", "taemin", "kiss-of-life"],
+    "practical": {
+      "accessTips": [
+        "Impact 一带优先想的是演后如何离开，不是怎么抵达；叫车、拼车和接驳方案要提前想",
+        "如果你住市中心，进场前就要把演后回程时间和预算一起算进去"
+      ],
+      "seatTips": [
+        "Arena 场先看主舞台和屏幕关系，预算有限时别只盯最近位置，要兼顾整体观看感"
+      ],
+      "stayTips": [
+        "如果只看一场，住在馆周边通常比硬回曼谷核心商圈更稳",
+        "如果你计划看完还要继续逛市区，就要接受演后通勤会明显更累"
+      ],
+      "foodTips": [
+        "进馆前先把正餐和补给解决，散场后优先顺利离开，不建议再临时找热门餐厅",
+        "同行看演时，演前统一买好水和简单零食会省很多沟通成本"
+      ],
+      "convenienceTips": [
+        "把叫车集合点、最近便利店和酒店回程方案提前存进地图，比临场搜索实用得多"
+      ],
+      "links": [
+        { "label": "Google Maps: IMPACT Arena", "href": "https://www.google.com/maps/search/IMPACT+Arena+Bangkok" },
+        { "label": "Google Maps: hotels near IMPACT Arena", "href": "https://www.google.com/maps/search/hotels+near+IMPACT+Arena" },
+        { "label": "Google Maps: convenience store near IMPACT Arena", "href": "https://www.google.com/maps/search/convenience+store+near+IMPACT+Arena" }
+      ]
+    }
   },
   {
     "slug": "accor-arena-venue-guide",
@@ -81,7 +239,31 @@
       "巴黎场建议把演后回酒店路线提前走一遍或至少存好备选",
       "如果你带周边或应援物，尽量别把临时转车留到最后一刻"
     ],
-    "relatedArtists": ["blackpink", "gidle", "v"]
+    "relatedArtists": ["blackpink", "gidle", "v"],
+    "practical": {
+      "accessTips": [
+        "先看酒店回程是否需要夜间多次换乘，Accor Arena 的难点更多在演后而不是进馆",
+        "如果你第一次去巴黎场，建议先把馆到地铁/酒店的路线存成两套备选"
+      ],
+      "seatTips": [
+        "欧洲 Arena 票价梯度常明显，先想清楚是追求近距离互动还是稳定完整视角"
+      ],
+      "stayTips": [
+        "Bercy、Gare de Lyon 一带更适合看完快速回酒店，通常比只住景点区更省心",
+        "如果隔天要赶车或机场，优先住在线路更顺的位置，不要把所有成本都压在 Uber 上"
+      ],
+      "foodTips": [
+        "演前更适合在馆外或酒店周边提前吃完，散场后先处理回程，再决定要不要补宵夜",
+        "巴黎场如果看夜场，别把所有餐食安排压在散场后"
+      ],
+      "convenienceTips": [
+        "欧洲场不一定像东亚场馆一样有密集便利店，水、充电和简单补给更适合提前解决"
+      ],
+      "links": [
+        { "label": "Google Maps: Accor Arena", "href": "https://www.google.com/maps/search/Accor+Arena" },
+        { "label": "Google Maps: hotels near Accor Arena", "href": "https://www.google.com/maps/search/hotels+near+Accor+Arena" }
+      ]
+    }
   },
   {
     "slug": "the-o2-venue-guide",
@@ -93,7 +275,33 @@
       "演前餐饮和安检时间一起算，别把到场时间压得太满",
       "如果第二天还要转车或赶飞机，演后路线最好准备一套备选"
     ],
-    "relatedArtists": ["ateez", "xg", "blackpink"]
+    "relatedArtists": ["ateez", "xg", "blackpink"],
+    "practical": {
+      "accessTips": [
+        "先看 North Greenwich 回你酒店的线路是否需要深夜换乘，The O2 真正耗体力的是演后",
+        "官方会给出交通与安检建议，夜场别把到场时间压得过满"
+      ],
+      "seatTips": [
+        "如果你更在意完整视线，优先以正面和屏幕朝向做判断，不要只盯最近价格档"
+      ],
+      "stayTips": [
+        "North Greenwich 周边适合图省体力；如果住市中心，回程线路简单比地理距离更重要",
+        "隔天有长途移动的话，优先住在回程更顺的地铁或铁路线上"
+      ],
+      "foodTips": [
+        "The O2 内外餐饮多，但演前高峰排队明显，适合提前吃或把轻食备好",
+        "散场后先离开高峰圈，再决定是否继续找餐厅"
+      ],
+      "convenienceTips": [
+        "英国夜场看演别低估末班和夜间打车成本，电量和数据网络都要提前准备好"
+      ],
+      "links": [
+        { "label": "官方交通指南", "href": "https://www.theo2.co.uk/visit-us/getting-to-the-o2" },
+        { "label": "官方场馆导览", "href": "https://www.theo2.co.uk/visit-us" },
+        { "label": "Google Maps: The O2", "href": "https://www.google.com/maps/search/The+O2+London" },
+        { "label": "Google Maps: hotels near North Greenwich", "href": "https://www.google.com/maps/search/hotels+near+North+Greenwich" }
+      ]
+    }
   },
   {
     "slug": "kia-forum-venue-guide",
@@ -105,6 +313,31 @@
       "演后别只留一套离场方案，北美馆最怕的就是单一路线失灵",
       "如果你不自驾，酒店是否方便回去通常比白天去哪玩更重要"
     ],
-    "relatedArtists": ["blackpink", "jung-kook", "aespa", "xg"]
+    "relatedArtists": ["blackpink", "jung-kook", "aespa", "xg"],
+    "practical": {
+      "accessTips": [
+        "Kia Forum 这类北美馆先想离场，再想进场；停车、叫车和步行集合点要提前定",
+        "如果你不自驾，演后回酒店的时间和费用要和票价一起算"
+      ],
+      "seatTips": [
+        "北美馆常见的体验差距来自视线遮挡和过近角度，先看舞台布置再看价格档更稳"
+      ],
+      "stayTips": [
+        "Inglewood 周边适合图方便；如果住更远商圈，演后回程成本通常会被明显低估",
+        "如果连看两天，优先选能减少夜间来回折腾的区域"
+      ],
+      "foodTips": [
+        "演前在酒店或上车前先解决正餐更稳，散场后北美场最容易把精力耗在等车和绕路上",
+        "如果有同行，演后先约定集合再决定要不要补宵夜"
+      ],
+      "convenienceTips": [
+        "移动电源、网络、电量和集合点在北美场比临时找便利店更重要，准备越早越省事"
+      ],
+      "links": [
+        { "label": "Google Maps: Kia Forum", "href": "https://www.google.com/maps/search/Kia+Forum" },
+        { "label": "Google Maps: hotels near Kia Forum", "href": "https://www.google.com/maps/search/hotels+near+Kia+Forum" },
+        { "label": "Google Maps: food near Kia Forum", "href": "https://www.google.com/maps/search/food+near+Kia+Forum" }
+      ]
+    }
   }
 ]

@@ -185,21 +185,14 @@
       "比较座位区块",
       "预留停车预算"
     ],
-    "heroImage": "/media/artists/blackpink-official.png",
+    "heroImage": "/media/events/blackpink-los-angeles-2026.svg",
     "ticketLinks": [
       {
         "label": "BLACKPINK Official",
         "href": "https://www.blackpinkmusic.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "BLACKPINK Official",
-      "creator": "YG Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://www.blackpinkmusic.com/",
-      "sourceLabel": "BLACKPINK official share image"
-    }
+    ]
   },
   {
     "id": "enhypen-manila-2026",
@@ -504,7 +497,7 @@
       "核对票档福利",
       "预留散场缓冲"
     ],
-    "heroImage": "/media/artists/itzy-official.jpg",
+    "heroImage": "/media/events/itzy-manila-2026-official.jpg",
     "ticketLinks": [
       {
         "label": "ITZY Official",
@@ -515,9 +508,9 @@
     "heroImageAttribution": {
       "provider": "ITZY Official",
       "creator": "JYP Entertainment",
-      "license": "Official promotional image",
+      "license": "Official tour poster",
       "sourceUrl": "https://itzy.jype.com/",
-      "sourceLabel": "ITZY official main visual"
+      "sourceLabel": "ITZY 3RD WORLD TOUR <TUNNEL VISION> in MANILA poster"
     }
   },
   {
@@ -550,21 +543,14 @@
       "检查欧元结算卡",
       "查看 VIP 入场时间"
     ],
-    "heroImage": "/media/artists/blackpink-official.png",
+    "heroImage": "/media/events/blackpink-paris-2026.svg",
     "ticketLinks": [
       {
         "label": "BLACKPINK Official",
         "href": "https://www.blackpinkmusic.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "BLACKPINK Official",
-      "creator": "YG Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://www.blackpinkmusic.com/",
-      "sourceLabel": "BLACKPINK official share image"
-    }
+    ]
   },
   {
     "id": "ateez-london-2026",
@@ -596,21 +582,14 @@
       "核对福利规则",
       "留出散场时间"
     ],
-    "heroImage": "/media/artists/ateez-official.png",
+    "heroImage": "/media/events/ateez-london-2026.svg",
     "ticketLinks": [
       {
         "label": "ATEEZ Official",
         "href": "https://ateez.kqent.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "ATEEZ Official",
-      "creator": "KQ Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://ateez.kqent.com/",
-      "sourceLabel": "ATEEZ official share image"
-    }
+    ]
   },
   {
     "id": "xg-london-2026",
@@ -642,21 +621,14 @@
       "测试支付方式",
       "确认返程车次"
     ],
-    "heroImage": "/media/artists/xg-official.png",
+    "heroImage": "/media/events/xg-london-2026.svg",
     "ticketLinks": [
       {
         "label": "XG Official",
         "href": "https://xgalx.com/xg/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "XG Official",
-      "creator": "XGALX",
-      "license": "Official promotional image",
-      "sourceUrl": "https://xgalx.com/xg/",
-      "sourceLabel": "XG official share image"
-    }
+    ]
   },
   {
     "id": "twice-tokyo-2026",
@@ -688,21 +660,14 @@
       "查看官方补票",
       "预订返程交通"
     ],
-    "heroImage": "/media/artists/twice-official.jpg",
+    "heroImage": "/media/events/twice-tokyo-2026.svg",
     "ticketLinks": [
       {
         "label": "TWICE Official",
         "href": "https://twice.jype.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "TWICE Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://twice.jype.com/",
-      "sourceLabel": "TWICE official main visual"
-    }
+    ]
   },
   {
     "id": "boynextdoor-seoul-2026",
@@ -1241,21 +1206,14 @@
       "确认站席规则",
       "订好场馆周边酒店"
     ],
-    "heroImage": "/media/artists/stray-kids-official.jpg",
+    "heroImage": "/media/events/stray-kids-bangkok-2026.svg",
     "ticketLinks": [
       {
         "label": "Stray Kids Official",
         "href": "https://www.straykids.jype.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "Stray Kids Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://straykids.jype.com/Default",
-      "sourceLabel": "Stray Kids official main visual"
-    }
+    ]
   },
   {
     "id": "woodz-seoul-2026",
@@ -1365,7 +1323,7 @@
       "确认取票方式",
       "预留返程"
     ],
-    "heroImage": "/media/artists/nexz-official.png",
+    "heroImage": "/media/events/nexz-osaka-2026-official.png",
     "ticketLinks": [
       {
         "label": "NEXZ Official",
@@ -1375,10 +1333,10 @@
     ],
     "heroImageAttribution": {
       "provider": "NEXZ Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://nexz-official.com/",
-      "sourceLabel": "NEXZ official share image"
+      "creator": "JYP Entertainment / Sony Music Labels",
+      "license": "Official tour poster",
+      "sourceUrl": "https://nexz-official.com/s/n180/page/nexz_live_tour_2026?ima=2659",
+      "sourceLabel": "NEXZ LIVE TOUR 2026 official key visual"
     }
   },
   {
@@ -1411,21 +1369,14 @@
       "比较视野图",
       "规划散场交通"
     ],
-    "heroImage": "/media/artists/twice-official.jpg",
+    "heroImage": "/media/events/twice-singapore-2026.svg",
     "ticketLinks": [
       {
         "label": "TWICE Official",
         "href": "https://twice.jype.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "TWICE Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://twice.jype.com/",
-      "sourceLabel": "TWICE official main visual"
-    }
+    ]
   },
   {
     "id": "qwer-seoul-2026",
@@ -1496,21 +1447,14 @@
       "留意包袋规则",
       "提早到场"
     ],
-    "heroImage": "/media/artists/nmixx-official.jpg",
+    "heroImage": "/media/events/nmixx-seoul-2026.svg",
     "ticketLinks": [
       {
         "label": "NMIXX Official",
         "href": "https://nmixx.jype.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "NMIXX Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://nmixx.jype.com/",
-      "sourceLabel": "NMIXX official main visual"
-    }
+    ]
   },
   {
     "id": "kep1er-yokohama-2026",
@@ -1854,21 +1798,14 @@
       "看站席规则",
       "预订返程"
     ],
-    "heroImage": "/media/artists/kiss-of-life-official.png",
+    "heroImage": "/media/events/kiss-of-life-bangkok-2026.svg",
     "ticketLinks": [
       {
         "label": "KISS OF LIFE Official",
         "href": "https://www.s2ent.co.kr/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "KISS OF LIFE Official",
-      "creator": "S2 Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://www.s2ent.co.kr/",
-      "sourceLabel": "KISS OF LIFE official visual"
-    }
+    ]
   },
   {
     "id": "izna-seoul-2026",
@@ -1978,21 +1915,14 @@
       "准备国际支付",
       "留出返程缓冲"
     ],
-    "heroImage": "/media/artists/ateez-official.png",
+    "heroImage": "/media/events/ateez-mexico-city-2026.svg",
     "ticketLinks": [
       {
         "label": "ATEEZ Official",
         "href": "https://ateez.kqent.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "ATEEZ Official",
-      "creator": "KQ Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://ateez.kqent.com/",
-      "sourceLabel": "ATEEZ official share image"
-    }
+    ]
   },
   {
     "id": "gidle-paris-2026",
@@ -2219,21 +2149,14 @@
       "核对区块视角",
       "确认返程车次"
     ],
-    "heroImage": "/media/artists/stray-kids-official.jpg",
+    "heroImage": "/media/events/stray-kids-sydney-2026.svg",
     "ticketLinks": [
       {
         "label": "Stray Kids Official",
         "href": "https://www.straykids.jype.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "Stray Kids Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://straykids.jype.com/Default",
-      "sourceLabel": "Stray Kids official main visual"
-    }
+    ]
   },
   {
     "id": "meovv-tokyo-2026",
@@ -2304,21 +2227,14 @@
       "看音场",
       "预留返程"
     ],
-    "heroImage": "/media/artists/day6-official.jpg",
+    "heroImage": "/media/events/day6-jakarta-2026.svg",
     "ticketLinks": [
       {
         "label": "DAY6 Official",
         "href": "https://day6.jype.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "DAY6 Official",
-      "creator": "JYP Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://day6.jype.com/",
-      "sourceLabel": "DAY6 official main visual"
-    }
+    ]
   },
   {
     "id": "kickflip-seoul-2026",
@@ -2467,21 +2383,14 @@
       "确认电子票",
       "预订返程交通"
     ],
-    "heroImage": "/media/artists/blackpink-official.png",
+    "heroImage": "/media/events/blackpink-tokyo-2026.svg",
     "ticketLinks": [
       {
         "label": "BLACKPINK Official",
         "href": "https://www.blackpinkmusic.com/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "BLACKPINK Official",
-      "creator": "YG Entertainment",
-      "license": "Official promotional image",
-      "sourceUrl": "https://www.blackpinkmusic.com/",
-      "sourceLabel": "BLACKPINK official share image"
-    }
+    ]
   },
   {
     "id": "monsta-x-seoul-2026",
@@ -2786,21 +2695,14 @@
       "看清 GA 规则",
       "规划散场接驳"
     ],
-    "heroImage": "/media/artists/xg-official.png",
+    "heroImage": "/media/events/xg-los-angeles-2026.svg",
     "ticketLinks": [
       {
         "label": "XG Official",
         "href": "https://xgalx.com/xg/",
         "type": "official"
       }
-    ],
-    "heroImageAttribution": {
-      "provider": "XG Official",
-      "creator": "XGALX",
-      "license": "Official promotional image",
-      "sourceUrl": "https://xgalx.com/xg/",
-      "sourceLabel": "XG official share image"
-    }
+    ]
   },
   {
     "id": "aespa-los-angeles-2026",

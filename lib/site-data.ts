@@ -89,6 +89,17 @@ export type GuideItem = {
   body: string;
   bullets: string[];
   relatedArtists?: string[];
+  practical?: {
+    accessTips?: string[];
+    seatTips?: string[];
+    stayTips?: string[];
+    foodTips?: string[];
+    convenienceTips?: string[];
+    links?: Array<{
+      label: string;
+      href: string;
+    }>;
+  };
 };
 
 export type CommunityPost = {
