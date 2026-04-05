@@ -7,6 +7,8 @@ import {
   events,
   findArtistByName,
   findArtistBySlug,
+  getHeadlinerArtistRank,
+  isHeadlinerArtist,
   formatDate,
   slugifyArtistName,
   tourPlans
@@ -27,6 +29,10 @@ export type EventFilters = {
   country?: string;
   status?: EventStatusValue;
   q?: string;
+};
+
+export type ArtistFilters = {
+  headlinersOnly?: boolean;
 };
 
 export type ArtistDetail = ArtistProfile & {
@@ -82,8 +88,15 @@ export async function getAllEvents(): Promise<EventItem[]> {
   );
 }
 
-export async function getArtists(): Promise<ArtistProfile[]> {
-  return [...artists].sort((a, b) => a.name.localeCompare(b.name, "en"));
+export async function getArtists(filters: ArtistFilters = {}): Promise<ArtistProfile[]> {
+  const items = filters.headlinersOnly ? artists.filter((artist) => isHeadlinerArtist(artist)) : artists;
+  return [...items].sort((a, b) => {
+    if (filters.headlinersOnly) {
+      return getHeadlinerArtistRank(a) - getHeadlinerArtistRank(b);
+    }
+
+    return a.name.localeCompare(b.name, "en");
+  });
 }
 
 export async function getArtistBySlug(slug: string): Promise<ArtistDetail | null> {

@@ -3792,5 +3792,125 @@
         "initials": "ZI"
       }
     ]
+  },
+  {
+    "slug": "jennie",
+    "name": "JENNIE",
+    "nameKo": "제니",
+    "fandom": "Ruby",
+    "tagline": "Solo / 全球线路 现场情报",
+    "intro": "JENNIE 的现场更适合把 solo 舞台完成度、festival 级别人气和票务入口放在一起看。这个主页会优先收她的正式场次、官方入口和下一轮大型活动信号。",
+    "accent": "#7a4047",
+    "officialUrl": "https://www.instagram.com/jennierubyjane/",
+    "agency": "OA Entertainment / Columbia Records",
+    "debutYear": 2016,
+    "origin": "South Korea",
+    "genres": [
+      "Solo",
+      "全球线路",
+      "舞美强项"
+    ],
+    "memberCount": 1,
+    "members": []
+  },
+  {
+    "slug": "rose",
+    "name": "ROSÉ",
+    "nameKo": "로제",
+    "fandom": "Number Ones",
+    "tagline": "Solo / 全球线路 现场情报",
+    "intro": "ROSÉ 的现场关注点通常会落在 vocal 稳定度、band set 配置和欧美大型场地的票务路径。这个主页优先为头部场次和大型 festival 保留位置。",
+    "accent": "#8b6b74",
+    "officialUrl": "https://www.instagram.com/roses_are_rosie/",
+    "agency": "The Black Label / Atlantic Records",
+    "debutYear": 2016,
+    "origin": "South Korea / New Zealand",
+    "genres": [
+      "Solo",
+      "全球线路",
+      "Live"
+    ],
+    "memberCount": 1,
+    "members": []
+  },
+  {
+    "slug": "lisa",
+    "name": "LISA",
+    "nameKo": "리사",
+    "fandom": "Lillies",
+    "tagline": "Solo / 全球线路 现场情报",
+    "intro": "LISA 的大型 solo 场和 festival 场更适合把票档、站位和现场镜头热区一起看。这个主页会优先补她的高关注活动和官方入口。",
+    "accent": "#6d5a43",
+    "officialUrl": "https://www.instagram.com/lalalalisa_m/",
+    "agency": "LLOUD / RCA Records",
+    "debutYear": 2016,
+    "origin": "Thailand",
+    "genres": [
+      "Solo",
+      "全球线路",
+      "Performance"
+    ],
+    "memberCount": 1,
+    "members": []
+  },
+  {
+    "slug": "jisoo",
+    "name": "JISOO",
+    "nameKo": "지수",
+    "fandom": "SOOYAs",
+    "tagline": "Solo / 亚洲场 现场情报",
+    "intro": "JISOO 的个人活动页会优先收录正式 fanmeeting、solo 场和高确定性的官方动态，方便先盯活动落地而不是零散刷公告。",
+    "accent": "#70556a",
+    "officialUrl": "https://www.instagram.com/sooyaaa__/",
+    "agency": "BLISSOO",
+    "debutYear": 2016,
+    "origin": "South Korea",
+    "genres": [
+      "Solo",
+      "亚洲场",
+      "Visual"
+    ],
+    "memberCount": 1,
+    "members": []
+  },
+  {
+    "slug": "gdragon",
+    "name": "G-DRAGON",
+    "nameKo": "지드래곤",
+    "fandom": "VIP",
+    "tagline": "Solo / 亚洲场 现场情报",
+    "intro": "G-DRAGON 的场次更适合把高需求票务、实名规则和大型场馆选区放在一起看。这个主页会优先盯住官宣、抢票入口和新一轮 tour 信号。",
+    "accent": "#4f4b5e",
+    "officialUrl": "https://www.instagram.com/xxxibgdrgn/",
+    "agency": "Galaxy Corporation",
+    "debutYear": 2006,
+    "origin": "South Korea",
+    "genres": [
+      "Solo",
+      "亚洲场",
+      "Legacy"
+    ],
+    "memberCount": 1,
+    "members": []
+  },
+  {
+    "slug": "bigbang",
+    "name": "BIGBANG",
+    "nameKo": "빅뱅",
+    "fandom": "VIP",
+    "tagline": "经典团体 / 亚洲场 现场情报",
+    "intro": "BIGBANG 相关页面会优先承接团体级官宣、周年活动和成员合体信号，不把零散风声误写成正式回归。",
+    "accent": "#544d40",
+    "officialUrl": "https://www.youtube.com/@BIGBANG",
+    "agency": "Catalog / Legacy",
+    "debutYear": 2006,
+    "origin": "South Korea",
+    "genres": [
+      "经典团体",
+      "亚洲场",
+      "Legacy"
+    ],
+    "memberCount": 4,
+    "members": []
   }
 ]

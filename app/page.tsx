@@ -18,7 +18,11 @@ import {
 } from "@/lib/site-data";
 
 export default async function HomePage() {
-  const [events, artists, plans] = await Promise.all([getEvents(), getArtists(), getTourPlans()]);
+  const [events, artists, plans] = await Promise.all([
+    getEvents(),
+    getArtists({ headlinersOnly: true }),
+    getTourPlans()
+  ]);
   const countries = uniqueCountries(events);
   const cities = new Set(events.map((event) => event.city));
   const sourcedArtists = artists.filter((artist) => hasRealVisual(artist.imageQuality));

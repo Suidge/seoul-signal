@@ -196,7 +196,70 @@ export const siteMeta = siteMetaData as {
   };
 };
 
-export const featuredArtists = artists.slice(0, 14).map((artist) => artist.name);
+export const headlinerArtistSlugs = [
+  "aespa",
+  "ateez",
+  "babymonster",
+  "bibi",
+  "bigbang",
+  "blackpink",
+  "boynextdoor",
+  "bts",
+  "day6",
+  "enhypen",
+  "exo",
+  "gdragon",
+  "gidle",
+  "got7",
+  "illit",
+  "itzy",
+  "iu",
+  "ive",
+  "j-hope",
+  "jennie",
+  "jimin",
+  "jin",
+  "jisoo",
+  "jung-kook",
+  "katseye",
+  "kiss-of-life",
+  "le-sserafim",
+  "lisa",
+  "monsta-x",
+  "nct-127",
+  "nct-dream",
+  "newjeans",
+  "nmixx",
+  "p1harmony",
+  "plave",
+  "red-velvet",
+  "riize",
+  "rose",
+  "seventeen",
+  "shinee",
+  "stray-kids",
+  "super-junior",
+  "taemin",
+  "taeyeon",
+  "the-boyz",
+  "treasure",
+  "twice",
+  "tws",
+  "txt",
+  "v",
+  "wayv",
+  "xg",
+  "zerobaseone",
+  "zico"
+] as const;
+
+const headlinerArtistSlugSet = new Set<string>(headlinerArtistSlugs);
+const headlinerArtistRank = new Map<string, number>(headlinerArtistSlugs.map((slug, index) => [slug, index]));
+
+export const featuredArtists = artists
+  .filter((artist) => headlinerArtistSlugSet.has(artist.slug))
+  .slice(0, 14)
+  .map((artist) => artist.name);
 
 export const productPillars = [
   {
@@ -304,4 +367,14 @@ export function hasDisplayVisual(quality?: VisualQuality | null) {
 
 export function hasRealVisual(quality?: VisualQuality | null) {
   return quality === "official" || quality === "commons" || quality === "venue";
+}
+
+export function isHeadlinerArtist(artistOrSlug: ArtistProfile | string) {
+  const slug = typeof artistOrSlug === "string" ? artistOrSlug : artistOrSlug.slug;
+  return headlinerArtistSlugSet.has(slug);
+}
+
+export function getHeadlinerArtistRank(artistOrSlug: ArtistProfile | string) {
+  const slug = typeof artistOrSlug === "string" ? artistOrSlug : artistOrSlug.slug;
+  return headlinerArtistRank.get(slug) ?? Number.MAX_SAFE_INTEGER;
 }
